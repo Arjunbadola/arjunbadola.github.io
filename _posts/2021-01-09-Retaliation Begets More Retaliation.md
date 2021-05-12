@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Market is at all time high and I am here sitting with more than 70% cash.
 
