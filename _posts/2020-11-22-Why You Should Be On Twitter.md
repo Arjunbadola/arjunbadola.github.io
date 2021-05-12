@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 In my earlier post I had written about how social media has become the modern struggle most importantly for my generation. Today I will be writing about how Twitter is an exception and why you should be on Twitter.
@@ -72,5 +72,3 @@ Here are some useful links:
 -[Twitter guide by Lama Al Rajih](https://docs.google.com/document/d/18ozu7cTz3Wa1TryuNS8n5hhAenXad_RtoBm0E5d4mTQ/edit#)
 -[Why should all serious and aspiring investors need to learn to learn to crush it on twitter? by Guy Spier](https://twitter.com/GSpier/status/1269613993557200898)
 -[A few thoughts on how best to use Twitter by Shravan Venkataraman](https://twitter.com/theBuoyantMan/status/1315731195179667457)
-
-
