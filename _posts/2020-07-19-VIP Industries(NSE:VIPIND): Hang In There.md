@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 To find my analysis on VIP Industries you can visit my previous article where I have explained about Moat of the company.
 Here are some points on VIP Industries which I came across…
