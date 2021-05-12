@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Decision Fatigue is a concept which everyone faces in their day to day lives but never truly know that they are facing it.
 
