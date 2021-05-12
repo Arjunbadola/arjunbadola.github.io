@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 In this short article I will be sharing with you some tips on how NOT to make good investment decisions.
 
