@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 I am writing this post so that I do not have to explain it again when someone asks me why I will stop using WhatsApp after May 15.
