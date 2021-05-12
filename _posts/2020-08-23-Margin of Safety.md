@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Let me start this short article with a quote by Charlie Munger:
 
