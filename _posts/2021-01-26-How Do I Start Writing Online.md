@@ -1,0 +1,45 @@
+---
+published: true
+---
+Before we get into how we must answer why.
+
+Be very clear on why you want to start writing online (I mean having clarity and not rigidity. Goals keep on changing).
+
+Why one has to be clear about it?
+
+As that would tell you the amount of effort you have to put in for just expressing yourself out there.
+
+If you decide to write for earning money by attracting audience then it requires a lot of effort.
+
+One has to buy a unique domain name, get it hosted, work on SEO, build an email list, keep posting content, stay up with the trends, etc.
+
+The problem here is doing all of these things one really gets stuck into trivial things which are no way improving your writing.
+
+Soon, you lose your focus from improving your skills and start getting addicted to getting more audience.
+
+Writing not for money has its huge benefits like:
+
+1. You can write on topics you want to write on and not go for the trending topics so as to get more views. Ex: If one currently writes an article on ITC, I am sure you can get many views on it.
+2. Write when you feel like. There won't be any compulsion to post weekly/biweekly.
+3. No need to use search terms in your articles.
+4. SEO....huh, why? Relax and just express yourself.
+
+So, sit back and think about this carefully.
+
+**How do I start writing online?**
+
+After you have decided your purpose for writing, I would suggest to start with spending some money like buying Domain name, etc. as this would act as an external motivation for you to write. (This is what I did)
+
+Once you inculcate the habit of writing then you can switch to a free platform (if your goal is not to earn money from your blog).
+
+**What to write about?**
+
+Share your journey as you keep learning. Don't be afraid to be wrong. Just be honest while writing and accept the mistakes you make during your journey.
+
+Read about the concept of "[Learning In Public](https://www.swyx.io/learn-in-public/)" which encourages one to make their learning journey public.
+
+Trust me its going to be a great experience. After few months of writing when you look back to your first article you would notice a huge difference.
+
+Writing online will expose you to other people who are interested in that field and interacting with them will help you grow a lot.
+
+When you finally decide and write your first article do send it across to me on Twitter. I would love to read it. Cheers!
