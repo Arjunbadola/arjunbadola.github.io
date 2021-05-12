@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 I am sure everyone of you must have heard Steve Jobs’ commencement speech at Stanford University. If you have then please do. (link)
 
