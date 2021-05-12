@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 (Here is my original investment thesis for this company: link)
 
