@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 In one of my previous essays I had talked about finding purpose in life. So after deciding what you really want to do, you start looking for great people who have already achieved that goal then those people become your ideals.
 
