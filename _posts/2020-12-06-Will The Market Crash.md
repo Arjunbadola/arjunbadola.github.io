@@ -56,7 +56,7 @@ It all depends on what type of investor you are.
 
 **Inshort**
 
-As peter Thiel says in his book Zero To One(Affiliate link), to test out that Facebook would work or not we would have to try it out in multiple worlds which is impossible as the same size is one.
+As peter Thiel says in his book Zero To One, to test out that Facebook would work or not we would have to try it out in multiple worlds which is impossible as the same size is one.
 
 Similarly, comparing it with Spanish flu would not make sense as the world has changed drastically from then.
 
