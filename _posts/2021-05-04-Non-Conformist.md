@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Adam Grant's book Originals has a chapter, "Finding The Faults in Defaults" where he suggests instead of accepting the default one should look for alternatives.
 
