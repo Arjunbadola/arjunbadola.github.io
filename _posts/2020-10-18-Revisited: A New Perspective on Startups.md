@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 This article is just a revisit to on of my previous article, A New Perspective on Startups.
 
