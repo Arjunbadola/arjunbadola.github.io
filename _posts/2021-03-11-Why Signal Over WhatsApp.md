@@ -60,4 +60,4 @@ If you really care about your privacy, this is the time to act. As many well-kno
 
 Please note, if we currently chat on WhatsApp then I would recommend you to download Signal and shift our conversation there. As after May 15 2021, I will not be able to reply back on WhatsApp.
 
-Update on this post: link
+Update on this post: [link](https://arjunbadola.github.io/Non-Conformist/)
