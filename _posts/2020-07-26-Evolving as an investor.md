@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 I started investing by following Ben Graham’s Approach, which focuses more on quantitative analysis and less on qualitative.
 
