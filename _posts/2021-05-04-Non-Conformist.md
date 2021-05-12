@@ -27,7 +27,7 @@ I still have some energy left to fight this giant in this battle of not giving o
 
 Just look at this and think over your decision again [(Source)](https://www.forbes.com/sites/zakdoffman/2021/01/09/stop-using-whatsapp-after-facebook-apple-imessage-and-signal-privacy-backlash/?sh=615687c76cf5):
 
-![Signal vs Others.png]({{site.baseurl}}/_posts/Signal vs Others.png)
+![Signal vs Others.png](/_posts/Signal vs Others.png)
 
 
 Note: I request all my contacts to switch to Signal for continuing our conversation. I know it might be little uncomfortable at the start but we can bring in the change.
