@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Here is a question I would like all of my readers to ask themselves…
 
