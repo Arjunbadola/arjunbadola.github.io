@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Here is a short article on some takeaways from the book I just read ‘The Science Of Hitting’ by Ted Williams & John Underwood.
 
