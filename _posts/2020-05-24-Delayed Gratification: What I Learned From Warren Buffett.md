@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 This article is not on the investing philosophies which Warren Buffett has taught to the world and showed his philosophy works. This is about learning the concept which my generation has a huge problem with and that is Instant Gratification.
 
