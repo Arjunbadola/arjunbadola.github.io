@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 oday’s post talks about the podcast I came across on the internet. Title being: “Scott Aaronson on “The theorem that proves rationalists can’t disagree”. So, I would be sharing my view on the podcast and relate it to my experiences.
 
