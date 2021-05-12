@@ -69,6 +69,9 @@ Make a personalized feed for yourself, don’t hesitate to block/unfollow, and c
 Here are some useful links:
 
 -[Why (and How) You Should Join Twitter Right Now by Alexey Guzey](https://guzey.com/twitter/)
+
 -[Twitter guide by Lama Al Rajih](https://docs.google.com/document/d/18ozu7cTz3Wa1TryuNS8n5hhAenXad_RtoBm0E5d4mTQ/edit#)
+
 -[Why should all serious and aspiring investors need to learn to learn to crush it on twitter? by Guy Spier](https://twitter.com/GSpier/status/1269613993557200898)
+
 -[A few thoughts on how best to use Twitter by Shravan Venkataraman](https://twitter.com/theBuoyantMan/status/1315731195179667457)
