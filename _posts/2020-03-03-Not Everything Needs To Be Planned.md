@@ -1,0 +1,13 @@
+We have been taught and also experienced many times that planning is very essential for a successful life. I believe planning is indeed very essential but not every time. Planning is perfect for short term goals like assignments, projects, workouts, etc. But for long term plans I believe not everything needs to be planned instead planning acts like an obstacle.
+
+Your future plans should not be very specific unless you have experienced that area of field. Your plans should always be flexible and you should be open to any opportunity which life throws at you. I believe when people set a very rigid and overly specific future plan there is no room left for exploration and learning things which are not related to your future goal(supposedly).
+
+Trying out things and learning should never be stopped. Never hold yourself from exploring on the premise that its not your field of career. You never know what might turn out later from that experience. Lets take example of Steve Jobs. During his college days, he audited a calligraphy class which was nowhere linked to Computers. Later, his calligraphy skills led to personal computers having wonderful typography today.
+
+In my previous article, A New Perspective on Startups, I mentioned that Mark Zuckerberg never started Facebook with the intention of forming a huge billion dollar company. Instead it was just a side project. You can also refer to this video where Mark talks about how they remained flexible at the early stages of Facebook. Having everything planned out into a rigid plan could have led to different outcome for Facebook.
+
+By exploring here I mean any new experience which can be from asking out someone to trying to read a book of some different genre than what you usually read. Anything which exposes you to new things and stretches your boundaries qualifies as learning.
+
+Fear. What generally stops people from exploring is statements like ‘what are people going to say’ , ‘I will be judged’, etc. These kinds of statements restrict you from trying new things and expanding your horizon. Reality is that nobody cares. You might become the topic for their table conversion but only momentarily. Sooner or later, they will forget it. If you fear trying new things might lead to you losing friends then congratulations! I would recommend you to take such action as it’s better being a person who explores and attempts to learn new things than being one who is inside their comfort zone and complaining.
+
+In short, exploration and learning should be the priority which will lead you to your future life and which tells us that not everything needs to be planned.
