@@ -1,4 +1,4 @@
-_**NOTE:** This is a journal type post for my use to later introspect my deicisions after few months._
+_**NOTE:** This is a journal type post for my use to later introspect my decisions after few months._
 
 I have been writing on this blog for almost 1.5 years now and within this span I have shifted my blog platform four times.
 
