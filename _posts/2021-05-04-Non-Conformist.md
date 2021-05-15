@@ -25,10 +25,7 @@ WhatsApp is using your vulnerability of not being able to switch towards their a
 
 I still have some energy left to fight this giant in this battle of not giving out my personal data but I believe my tipping point is also coming closer day by day. But till then I will be a non-conformist and keep rejecting the default. The cause might look small today but it will develop my attitude towards future scenarios.
 
-Just look at this and think over your decision again [(Source)](https://www.forbes.com/sites/zakdoffman/2021/01/09/stop-using-whatsapp-after-facebook-apple-imessage-and-signal-privacy-backlash/?sh=615687c76cf5):
-
-![Signal vs Others](/_posts/Signal vs Others.png)
-
+Just look at this and think over your decision again [(link)](https://www.forbes.com/sites/zakdoffman/2021/01/09/stop-using-whatsapp-after-facebook-apple-imessage-and-signal-privacy-backlash/?sh=615687c76cf5)
 
 Note: I request all my contacts to switch to Signal for continuing our conversation. I know it might be little uncomfortable at the start but we can bring in the change.
 
