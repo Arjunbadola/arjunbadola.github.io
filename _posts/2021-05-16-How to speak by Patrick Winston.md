@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Sharing my brief notes of a talk by Patrick Winston. Here is the [link](https://youtu.be/Unzc731iCUY) to the talk.
 
