@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Here is second part of the Gold Loan industry series in collaboration with School of Intrinsic Compounding. In this post we will be analyzing the two dominant listed players of the industry: Manappuram Finance and Muthoot Finance.
 
