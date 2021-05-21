@@ -20,6 +20,6 @@ People from whom I keep learning:
 
 3. Bharat Shah: After reading his book I realized how important it is to look for grow in companies. Here is a qoute by him which would summarize this concept: "When growth goes away, equities reduce to a bond. It will be treated like a bond for a while. If the picture deteriorates further, then it will be treated worse than a bond."
 
-4. Ishmohit Arora: He is the founder of SOIC. By writing reports for SOIC I have learnt that if your business analysis is strong one would automatically understand the valuation part. Valuation must always come after getting the business analysis right.
+4. Ishmohit Arora: He is the founder of SOIC. By writing reports for SOIC I have learnt that if your business analysis is strong, one would automatically understand the valuation part. Valuation must always come after getting the business analysis right.
 
 Also my field of interest in law disciplinary are Company Law, Contracts Law, and Securities Law.
