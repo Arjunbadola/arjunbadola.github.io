@@ -4,11 +4,13 @@ permalink: /about/
 layout: page
 published: true
 ---
-Hello everyone! I am Arjun Badola
+Hello everyone! I am Arjun Badola, a law student with an interest in analyzing businesses.
 
 My investing style has evolved from being a pure Benjamin Graham style investor towards Moat investor to now having a business analyst mindset while also catering thoughts towards how the market perceives the company.
 
-In short, I look for companies which have huge market size opportunity, ability to grab that opportunity, No legal or ethical questions being raised on the management, and is available at reasonable valuation.
+So, In short - I look for companies which have huge market size opportunity, ability to grab that opportunity, No legal or ethical questions being raised on the management, and is available at reasonable valuation.
+
+Currently I have been working in collaboration with [SOIC](https://soic.in/blogs) for writing indsutry and company analysis reports.
 
 People from whom I keep learning:
 
@@ -16,8 +18,8 @@ People from whom I keep learning:
 
 2. Charlie Munger: After reading about him I developed my diversification framework, which is having multi-disciplinary approach (Mental Models) towards investing but opposite in terms of portfolio by having a concentrated portfolio.
 
-3. Prof. Sanjay Bakshi: He is also heavily influenced by the above two mentioned but I liked his valuation method which includes three stages of margin of safety, hence I adopted his valuation framework.
+3. Bharat Shah: After reading his book I realized how important it is to look for grow in companies. Here is a qoute by him which would summarize this concept: "When growth goes away, equities reduce to a bond. It will be treated like a bond for a while. If the picture deteriorates further, then it will be treated worse than a bond."
 
-Some of my best content includes CCL Products (India) Ltd Analysis, What Edge Do Retail Investors Have?, Why You Need To Fail Fast, or Revisited: A New Perspective on Startups.
+4. Ishmohit Arora: He is the founder of SOIC. By writing reports for SOIC I have learnt that if your business analysis is strong one would automatically understand the valuation part. Valuation must always come after getting the business analysis right.
 
-I am also a law student who has interest in Company Law, Contracts Law, and Securities Law.
+Also my field of interest in law disciplinary are Company Law, Contracts Law, and Securities Law.
