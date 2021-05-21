@@ -130,9 +130,9 @@ Now, I am just sitting with huge cash position with no ideas to invest in.
 
 Not getting ideas could be due various reasons:
 
-    Rising of Stock prices would have taken away all the good opportunities out there,
-    My method of analyzing companies could be wrong, or
-    I am just lazy (Or, busy with work)
+1. Rising of Stock prices would have taken away all the good opportunities out there,
+2. My method of analyzing companies could be wrong, or
+3. I am just lazy (Or, busy with work)
 
 I feel all of the above reasons are currently playing out together.
 
