@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-(Here is my original investment thesis for this company: link)
+(Here is my original investment thesis for this company: [link](https://arjunbadola.blog/ccl-products-india-ltd-analysis-the-moat-business-you-might-be-looking-for/))
 
 I would like to start this article with framework used in Bharat Shah’s book, ‘Of Long-Term Value & Wealth Creation From Equity Investing’ for opportunity size using size of fish and pond as example to fit in CCL Products (India) Ltd.
 
