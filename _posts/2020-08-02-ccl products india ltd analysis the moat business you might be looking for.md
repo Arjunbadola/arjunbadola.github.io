@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-(Here is the updated version of my research on this company: link)
+(Here is the updated version of my research on this company: [link](https://arjunbadola.blog/Why-I-Sold-CCL-Products-(India)-Ltd/))
 
 Coffee is a very sticky category. They become your habit and gets inside your daily routine. Sometimes, if you don’t get a good cup of coffee in the morning your whole mood gets spoiled for the day. So, changing this habit can be quite difficult.
 
@@ -134,7 +134,7 @@ Threats
 
 Valuation
 
-I try to follow the expected return model which is followed by Prof. Sanjay Bakshi. Here is the link to it: (click here)
+I try to follow the expected return model which is followed by Prof. Sanjay Bakshi. Here is the link to it: [(click here)](https://www.safalniveshak.com/email-exchange-with-sanjay-bakshi-on-valuations/)
 
 Its a three step process:
 
@@ -146,7 +146,7 @@ As said by Prof. Sanjay Bakshi such practice provides margin of safety by:
 
 “The idea behind the above is to create multiple sources of margin of safety. The first point delivers a margin of safety by keeping you away from bad businesses. Investors should recognize that margin of safety, apart from a low price, can also come from a high-quality business. The other two points help you think about reasonable valuation a decade from now.“
 
-This valuation is made further simpler by using an excel sheet (provided by Safal Niveshak, thanks to him!): Attached with the post
+This valuation is made further simpler by using an excel sheet (provided by Safal Niveshak, thanks to him!): [(link)](https://www.notion.so/arjunbadola/CCL-Products-3d8015499cba4cb89146ff9b60a13dd3)
 
 Remember depending completely on Excel can be quite dangerous sometimes. As people tend to tweak it as per their needs.
 
@@ -156,10 +156,6 @@ Inshort
 CCL Products (India) Ltd has a cost-efficient business model, long-standing relationships with customers as the product has stickiness, economies of scale as they are the lowest cost producer, they have the expertise to produce the right blends and their location which saves them logistical costs helps the company get an edge over competitors.
 
 ——
-
-Further if you want to be updated with my findings on CCL Products (India) Ltd follow my thread on Twitter: (Click Here)
-
-Also, I received appreciation from Ashwini Damani on my above research. Here is the link to it: (click here)
 
 Sources: Annual Reports, Conference Calls & as cited during the article.
 
