@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 I believe purpose in life comes when you create something in this world. Creating anything requires energy, creativity, effort and so many other factors. Creation may vary from starting your blog to doing science experiments, it can be anything!
 
