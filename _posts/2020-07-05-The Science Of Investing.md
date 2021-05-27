@@ -7,11 +7,12 @@ Three Golden Rules To Hit
 
 Here are the following three golden rules which Ted William followed in his entire baseball career.
 
-    To get a good ball to hit: Ted William had a ‘Strike Zone’. If a pitch would fall into his area only then he would hit it as hard as he could, otherwise he would not try for a home run.
-    Proper thinking: According to the author proper thinking is developed by doing proper homework that is like understanding what is the guy’s best pitch, how did they get you out last time, etc.
-    To be quick with the bat: As soon as you realize it’s your pitch you must be well prepared and hit the pitch! Well prepared means you must have practiced, practiced, and practiced to hit the pitch.
+1. To get a good ball to hit: Ted William had a ‘Strike Zone’. If a pitch would fall into his area only then he would hit it as hard as he could, otherwise he would not try for a home run.
+2. Proper thinking: According to the author proper thinking is developed by doing proper homework that is like understanding what is the guy’s best pitch, how did they get you out last time, etc.
+3. To be quick with the bat: As soon as you realize it’s your pitch you must be well prepared and hit the pitch! Well prepared means you must have practiced, practiced, and practiced to hit the pitch.
 
 Now lets see how these rules apply to investing….
+
 First rule
 
 This rule requires discipline.
@@ -26,9 +27,8 @@ You must always invest in the companies which fall under your circle of competen
 
 Before ending this first rule I would like to quote Warren Buffett here:
 
-The stock market is a no-called-strike game. You don’t have to swing at everything–you can wait for your pitch. The problem when you are a money manager is that your fans keep yelling, ‘Swing, you bum!’
+The stock market is a no-called-strike game. You don’t have to swing at everything–you can wait for your pitch. The problem when you are a money manager is that your fans keep yelling, ‘Swing, you bum!’- Warren Buffett
 
-Warren Buffett
 Second Rule
 
 The author says 50% of the hitting is dependent on ‘proper thinking’. It is just not studying the pitcher or the situation of the game but to also ‘anticipate’. In baseball when the hitter is about to get its pitch, there are always some voices from the audience ‘guessing’ the pitch. They shout, ‘don’t do it!’.
@@ -52,4 +52,4 @@ In the investing world you only need a few great ideas in your whole lifetime so
 
 Therefore, you must also not hesitate to unload your pile of cash whenever you see the opportunity in front of you as long as it falls under your circle of competence.
 
-(Thanks to https://www.mojohandykraftz.com/  for reading drafts of this.)
+(Thanks to [Mojo Handykraftz](https://www.mojohandykraftz.com/) for reading drafts of this.)
