@@ -27,11 +27,11 @@ What I am saying is be aware of what your ideal says and follow only those quali
 
 Here is my list of Ideals for different things:
 
-    Investing: Warren Buffet, Peter Lynch, Vijay Kedia, Mohish Pabrai, Raamdeo Agrawal, Benjamin Graham, Vishal Khandelwal , Sanjay Bakshi, Philip fisher, D.Muthukrishnan.
-    Startup related: Elon Musk, Steve Jobs, Bill Gates, Sam Altman, Paul Graham, Peter Thiel
-    Behavior: Dale Carnegie
-    To avoid distraction: Cal Newport
+1. Investing: Warren Buffet, Peter Lynch, Vijay Kedia, Mohish Pabrai, Raamdeo Agrawal, Benjamin Graham, Vishal Khandelwal , Sanjay Bakshi, Philip fisher, D.Muthukrishnan.
+2. Startup related: Elon Musk, Steve Jobs, Bill Gates, Sam Altman, Paul Graham, Peter Thiel
+3. Behavior: Dale Carnegie
+4. To avoid distraction: Cal Newport
 
 Do share your list of ideals in the comment box below.
 
-(Thanks to https://www.mojohandykraftz.com/  for reading drafts of this.)
+(Thanks to [Mojo Handykraftz](https://www.mojohandykraftz.com/) for reading drafts of this.)
