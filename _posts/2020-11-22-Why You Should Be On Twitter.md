@@ -36,14 +36,6 @@ Most of the time people who are quite well known in your industry are there on T
 
 Plus they welcome people to share content and look forward for fruitful interactions.
 
-Let me shares my wonderful moments:
-
--I had written a company analysis on ITC Ltd which I had shared on Twitter. I had tagged D.Muthukrishnan who is very famous for being known as an ITC shareholder. He liked my article a lot and gave me appreciation.
--Got appreciation from Prof. Sanjay Bakshi on my Warren Buffett Partnership Letter Notes, and Notes on his recent lecture, ‘The opposite of a good idea’
--Basant Maheshwari appreciated my summary of his book, ‘The Thoughtful Investor’
-
-Plus there are a lot of moments where I have learnt a lot from reading discussion of two people going on comments section or as a thread. Example
-
 **Online Journal**
 
 > There are gaps in one’s thinking because you are being kind to yourself. When you deicide to write it down you have to fill those gaps.- Naval Ravikant
