@@ -46,7 +46,7 @@ Writing down your thoughts is going to help you get your thoughts clear about th
 
 Plus if you are investor then you can share your rationale or opinion on companies and always go back and look at it.
 
-One can use twitter’s advance search or this bot.
+One can also use twitter’s advance search which is an amazing tool to find the content you are looking for. 
 
 Further, sharing thoughts on companies attracting criticism from people which could also help you improve your thesis.
 
