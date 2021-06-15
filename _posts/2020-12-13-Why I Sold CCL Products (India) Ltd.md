@@ -7,10 +7,10 @@ I would like to start this article with framework used in Bharat Shah’s book, 
 
 There are four categories for opportunity size:
 
--Large Fish in a Large Pond: This is the most desirable situation as there are plenty of resources for the fish to growth and being a big fish it also has the potential to get maximum resources for itself.
--Large Fish in a Small Pond: Here the future growth of the company has a upper limit as it has already become a giant in a small pond.
--Small Fish in a Large Pond: This is also a desirable option, if there is no fight for resources between the players.
--Small Fish in a Small Pond: This is the worst combination. There are not enough resources available and you being a small fish has a high chance of getting eaten by others.
+1.Large Fish in a Large Pond: This is the most desirable situation as there are plenty of resources for the fish to growth and being a big fish it also has the potential to get maximum resources for itself.
+2. Large Fish in a Small Pond: Here the future growth of the company has a upper limit as it has already become a giant in a small pond.
+3. Small Fish in a Large Pond: This is also a desirable option, if there is no fight for resources between the players.
+4. Small Fish in a Small Pond: This is the worst combination. There are not enough resources available and you being a small fish has a high chance of getting eaten by others.
 
 I feel CCL Products (India) ltd falls into the second category of Large Fish in a Small Pond.
 
@@ -98,4 +98,4 @@ As per valuation method shared in the analysis (Exit P/E Multiple of 20)
 
 I would like to end with a quote:
 
-When growth goes away, equities reduce to a bond. It will be treated like a bond for a while. If the picture deteriorates further, then it will be treated worse than a bond. - Bharat Shah
+> When growth goes away, equities reduce to a bond. It will be treated like a bond for a while. If the picture deteriorates further, then it will be treated worse than a bond. - Bharat Shah
