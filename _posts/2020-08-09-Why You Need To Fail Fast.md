@@ -6,7 +6,8 @@ I have always thought why many successful people recommend to start early in alm
 I have seen a lot of people with an attitude of working towards their dream with a thought that, one fine day when they start, they will certainly succeed. All this is based on the assumption that whatever they do is going to succeed in the first go.
 
 But I can surely tell you with my own experience of investing in the stock market that there is a valid reason behind starting early. The reason being you must fail early.
-Why Is It Important To Fail?
+
+**Why Is It Important To Fail?**
 
 I believe failing is very important in life. It teaches you lessons which stick with you for your lifetime. Plus these lessons come from a valid source i.e YOU.
 
@@ -15,7 +16,8 @@ When you fail you realize that you are not what you were thinking of and learnin
 Sometimes when you start working towards your dream you are generally welcomed by beginner’s luck. So, you start thinking of yourself as some expert and then start playing big.
 
 But, the party has to end right? By the time the party ends you are in the middle of the dance floor where the whole chaos is.
-Why Fail Early?
+
+**Why Fail Early?**
 
 In short, if you fail early you have the advantage of correcting your course. As you had just started, the cost of correction wont be high.
 
@@ -28,7 +30,8 @@ So, you start working on an idea which you believe is going to be ‘a million-d
 After all your hard work of months, your idea fails. If you don’t give up on your entrepreneurial spirit then I think this is the best thing which could happen to you during your process of achieving your dream.
 
 Failing at the early stage would expose you to, from basics to complex, problems which occur at the initial stage of starting up a company and ease out the logistical work when you try again.
-My Story Of Failing Fast
+
+**My Story Of Failing Fast**
 
 (I had previously written an article about my failures in investing but there I did not talk stock specific.)
 
@@ -42,10 +45,11 @@ The part which I picked up was, staying invested in companies for a very long pe
 
 Now if you are a reader who is new to stock market investing, you would be thinking that isn’t it obvious to invest in quality business? I must say, yes you are right it is obvious. Actually it is too obvious and that is what makes investing not so easy.
 
-    Investing Is Simple, But Not Easy. (Warren Buffett)
+> Investing Is Simple, But Not Easy. (Warren Buffett)
 
-For more details on understanding why investing is simple but not easy I would recommend you people to read a memo written by Howard Marks. Here is the link for it. (click here)
-First Failure: Investing Outside My Circle Of Competence
+For more details on understanding why investing is simple but not easy I would recommend you people to read a memo written by Howard Marks.
+
+**First Failure: Investing Outside My Circle Of Competence**
 
 Now my first failure was investing in companies which were outside of my circle of competence. Inshort, the companies which I did not understand.
 
@@ -57,8 +61,6 @@ All of the above companies fall outside my circle of competence.
 
 Graphite India is in the business of manufacturing electrodes.
 
-(Read: Graphite India Ltd (NSE:GRAPHITE) a good buy?)
-
 Soon, I realized that I would never understand what drives this business, How is the demand produced, why would they prefer Graphite India over HEG, what problems such companies can face, etc.
 
 Luckily for me I made a profit in this stock. I purchased it at an average price of Rs.145 and sold at around 50-60% profits within a month of time, as I had realized I could not understand the business. (During this time I have invested more than 50% of my portfolio into Graphite India)
@@ -68,7 +70,8 @@ Another stock was NOCIL purchased at avg. price of Rs.67 and had sold for 10-15%
 NMDC was purchased at around avg. price of Rs.80 and had sold it at a loss of 0-5%.
 
 Take Solutions Ltd was a much bigger loss for me. I bought it at an avg. price of Rs.103 and sold it for around Rs45-50, a loss of around 50-60% but fortunately Take Solutions Ltd was not a big portion of my portfolio.
-Second Failure: Not Using Proper Valuation Methods
+
+**Second Failure: Not Using Proper Valuation Methods**
 
 After understanding the concept of circle of competence and choosing quality is was still not enough.
 
@@ -84,16 +87,15 @@ But as I started reading more and more I understood that you don’t need to dis
 
 Here is what Warren Buffett had said in his 1989 letter to shareholders of Berkshire Hathaway.
 
-“What counts, however, is intrinsic value – the figure indicating what all of our constituent businesses are rationally worth. With perfect foresight, this number can be calculated by taking all future cash flows of a business – in and out – and discounting them at prevailing interest rates. So valued, all businesses, from manufacturers of buggy whips to operators of cellular phones, become economic equals.”
+> “What counts, however, is intrinsic value – the figure indicating what all of our constituent businesses are rationally worth. With perfect foresight, this number can be calculated by taking all future cash flows of a business – in and out – and discounting them at prevailing interest rates. So valued, all businesses, from manufacturers of buggy whips to operators of cellular phones, become economic equals.”
 
 One of the greatest investor discounts at the prevailing interest rate of the U.S. treasury. So, if you want to be conservative you can discount at a slightly higher rate. But if you go too high you miss out the quality businesses.
-Third Failure: Not Studying About The Competition
+
+**Third Failure: Not Studying About The Competition**
 
 Now my third mistake was not studying the competition.
 
 I had invested in VIP Industries Ltd at an avg price of around Rs 250-260 and sold it at a profit of 20%.
-
-[Read: My Take On VIP Industries (NSE:VIPIND)]
 
 The reason for selling here was the problem with the Moat of the company.
 
@@ -116,4 +118,4 @@ Having experience explains that you might have faced some problems during the jo
 
 So, I live my life on the principle of – Start Early Fail Early.
 
-(Thanks to https://www.mojohandykraftz.com/  for reading drafts of this.)
+(Thanks to [https://www.mojohandykraftz.com/](https://www.mojohandykraftz.com/)  for reading drafts of this.)
