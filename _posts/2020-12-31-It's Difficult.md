@@ -21,7 +21,7 @@ The main question one should ask that whether one would be able to hold a compan
 
 This would lure you into investing in stock market but in reality finding such businesses and having them as a meaningful part of your portfolio is very difficult.
 
-If anyone says it’s easy and shows that they are making money, soon or later, they would run out of luck.
+If anyone says it’s easy and shows that they are making money, sooner or later, they would run out of luck.
 
 Especially, don’t listen to people who started investing during a bull run and have never faced a bear market cycle.
 
@@ -49,7 +49,7 @@ Now, before buying a business one has to do a lot of analysis.
 
 Understand why a business is superior than other players, how does it maintain its margins, quality of management, how is the sector doing, what is the scope of growth for the company, etc.
 
-To find information for all these (list is not exhaustive) you need to put in a lot of effort and one would only do that you if you were curious or passionate about investing and not here for just becoming rich.
+To find information for all these (list is not exhaustive) you need to put in a lot of effort and one would only do that if you were curious or passionate about investing and not here for just becoming rich.
 
 Getting rich is obviously the main goal here but I feel it is the fruit you get for partnering yourself with superior quality businesses.
 
@@ -62,9 +62,10 @@ Now if you are here just for money then it would be very difficult for you to ke
 Plus, even after doing your thorough analysis still there is no guarantee you would succeed.
 
 You will have your own set of failures.
-Mental Pressure
 
-Now getting information about companies would requires hours/days of research and until then you experience FOMO (Fear Of Missing Out).
+**Mental Pressure**
+
+Now getting information about companies requires hours/days of research and until then you experience FOMO (Fear Of Missing Out).
 
 When you see other people making money then you go through a lot of pressure to invest too and ride the trend of rising prices.
 
@@ -73,9 +74,10 @@ It might look easy on paper that why would one invest just because everyone is b
 The pressure is not just from missing out its also from getting criticism.
 
 Now to handle that criticism one must have a solid conviction on the company and that would happen only after putting hours of research which would lead us to back to Curiosity and Passion.
-Opportunity Cost
 
-At the initial stage when you would have come across something know as investing in stock market there is high probability that you might have got interested in making quick money.
+**Opportunity Cost**
+
+At the initial stage when you would have come across something known as investing in stock market there is high probability that you might have got interested in making quick money.
 
 You might also succeed in it. But you need to ask yourself is that sustainable?
 
@@ -89,7 +91,7 @@ Don’t skip your studies just to earn money from stock market.
 
 Stock Market needs time. With experience you would understand what things work for you personally.
 
-I used to follow cigar butt approach investing for 1 year in a false believing that Warren Buffett still follows it.
+I used to follow cigar butt approach investing for 1 year in a falsehood believing that Warren Buffett still follows it.
 
 Don’t run behind short term money.
 
@@ -105,8 +107,9 @@ But sooner you realize the cost and capacity needed for reaching the ‘top’, 
 
 I am not saying don’t try things and just sit within your limits, that would be terrible.
 
-I just want people to know have other side of the argument too (which is probably the reality).
-My Experience?
+I just want people to know the other side of the argument too (which is probably the reality).
+
+**My Experience?**
 
 I will be very honest with you.
 
