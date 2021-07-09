@@ -82,4 +82,5 @@ First: the loss of capital (assuming your timeframe of one year and stock will n
 Second: 6-12% interest which is not a variable rather a constant handling sword over your portfolio. Your returns would be lumpy, but interest would come at your door knocking every month/year to collect its valid share in your money.
 
 **Inshort**
+
 My only purpose for writing this post is to tell those people on the other side who think that saving is just wasting your "childhood days", "college times", "Young Life", etc. Let me tell you saving means not spending on things which do not really matter. The day you understand it, you will start following the motto, "Sar Utha ke Jiyo".
