@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Whenever someone who is new to the stock market asks me for book recommendations to start with, I share the following list and tell them to follow the exact order:
 
@@ -82,5 +82,3 @@ Second: 6-12% interest which is not a variable rather a constant handling sword 
 
 **Inshort**
 My only purpose for writing this post is to tell those people on the other side who think that saving is just wasting your "childhood days", "college times", "Young Life", etc. Let me tell you saving means not spending on things which do not really matter. The day you understand it, you will start following the motto, "Sar Utha ke Jiyo".
- 
-
