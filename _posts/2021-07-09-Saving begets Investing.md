@@ -79,7 +79,7 @@ If your company’s share price falls by 10% and you are on leverage the damages
 
 First: the loss of capital (assuming your timeframe of one year and stock will not move during that period). 
 
-Second: 6-12% interest which is not a variable rather a constant handling sword over your portfolio. Your returns would be lumpy, but interest would come at your door knocking every month/year to collect its valid share in your money.
+Second: 6-12% interest which is not a variable rather a constant hanging sword over your portfolio. Your returns would be lumpy, but interest would come at your door knocking every month/year to collect its valid share in your money.
 
 **Inshort**
 
