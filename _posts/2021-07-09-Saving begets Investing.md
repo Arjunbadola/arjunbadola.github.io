@@ -51,11 +51,11 @@ But he is not doing all bad, there is truth in his statement that he is "enjoyin
 Prof. Sanjay Bakshi had given a talk on "What I Wish I Knew When I Was 17". Sharing my notes on it: [link](https://twitter.com/badola_arjun/status/1353260875872923649).
 
 In the talk professor shared two ways to increase your Principal i.e. capital/money.
-1. Regular effort
+1.Regular effort
 
 This could be through staying frugal (Not being cheap). Shares his example of never buying shampoo or soaps as he was able to get them from hotels as he travels a lot.
 
-2. Starting early
+2.Starting early
 
 > Life is like a snowball, all you need is wet snow and a really long hill - Warren Buffett
 
