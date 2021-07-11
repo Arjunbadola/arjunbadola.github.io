@@ -92,7 +92,9 @@ But I never paid attention to numbers. They tell a different story.
 People won’t just suddenly shift to drinking coffee and leave tea which is cheaper and has been go to drink for everyone for ages in India.
 Inshort
 
-Here is how I think this company’s market cap would turn out to be after 10 years: [link](https://www.notion.so/arjunbadola/b57550a0e1914b0984445028c0de41ce?v=e5728660e52d4ef59c2569f0eab9d69d)
+Here is how I think this company’s market cap would turn out to be after 10 years: 
+
+![CCL](/assets/CCL.PNG)
 
 As per valuation method shared in the analysis (Exit P/E Multiple of 20)
 
