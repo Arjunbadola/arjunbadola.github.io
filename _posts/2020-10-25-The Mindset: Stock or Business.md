@@ -30,7 +30,9 @@ Investing in a business which falls under your circle of competence is the key t
 
 > I’m no genius. I’m smart in spots—but I stay around those spots. - Tom Watson Sr., Founder of IBM
 
-Here is a [photo](https://www.safalniveshak.com/circle-of-competence-what-and-why/) by Safal Niveshak which explains this concept.
+Here is a photo by [Safal Niveshak](https://www.safalniveshak.com/circle-of-competence-what-and-why/) which explains this concept:
+
+![circle](/assets/circle.jpg)
 
 One must understand that knowing everything does not help you succeed in investing instead understanding something deeply which enables you to see things or understand them in such way that others can’t.
 
