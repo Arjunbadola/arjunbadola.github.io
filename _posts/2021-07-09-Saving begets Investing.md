@@ -42,7 +42,9 @@ After spending his money on the above two companies mentioned he decides to go f
 
 Borrowing money to fulfil your urges is certainly a recipe for trouble.
 
-Savings are like HDFC Life's motto: Sar Utha ke Jiyo (Please watch this video to understand what I mean: [link](https://www.youtube.com/watch?v=ui9GPNYpvVc))
+Savings are like HDFC Life's motto: Sar Utha ke Jiyo (Please watch this video to understand what I mean:
+
+[![saruthakejiyo](/assets/saruthakejiyo.PNG)](https://www.youtube.com/watch?v=ui9GPNYpvVc)
 
 The day you need something really important, and you don't have savings, you would need to beg in front of someone else for that money and that would kill you from inside.
 
@@ -67,7 +69,10 @@ Therefore, there is always a trade-off: You can either have fun today but work h
 I still remember a dialogue from the movie Singham which I had seen when I was in my 6 or 7th class.
 
 The dialogue was: "meri zarooratein kam hai, iss liye mere zameer mein dum hai"
-(Please watch before continuing reading: [link](https://youtu.be/mK6rc84fFLc))
+
+Please watch before continuing reading: [link](https://youtu.be/mK6rc84fFLc))
+
+[![singham](/assets/singham.PNG)](https://www.youtube.com/watch?v=mK6rc84fFLc)
 
 It simply means that when your needs are few, your conscience/standards are strong. That is, you don’t have to beg in front of people for money to fulfil your needs.
 
