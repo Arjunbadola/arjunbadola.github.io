@@ -6,7 +6,8 @@ This article is just a revisit to on of my previous article, A New Perspective o
 Last time, I had just written a brief summary about the video which I came across of Paul Graham and didn’t actually explain how it helped me.
 
 So, here is my attempt to explain what I meant last time.
-The Problem
+
+**The Problem**
 
 Few months back I had gone into a very irrational phase of my life. Each day was making me feel miserable for not taking action.
 
@@ -25,7 +26,8 @@ Continuous inflow of such content made me feel miserable if I was not working on
 This led me to intentional try thinking about ideas and rationalize by giving reasoning that “this time its different”. I used to think that if I don’t come up with a startup idea soon, I would end up having an average life.
 
 But hopefully, I was wrong.
-The Solution
+
+**The Solution**
 
 Luckily, I stumbled upon a speech given by Paul Graham at Stanford University: Before the Startup
 
@@ -36,7 +38,8 @@ I used to look at it as a money generating machine or something which is ‘cool
 My focus was just on getting that billion dollar idea. In reality, its not just about the idea.
 
 I would divide the answer into three parts: Opportunity Cost, Expertise & Ideas
-Opportunity Cost
+
+**Opportunity Cost**
 
 In the speech Paul Graham directly recommended not to start a startup when you are in your college.
 
@@ -51,24 +54,27 @@ Life is short and you only get one short of it, starting early can be a good opt
 Well, I definitely agree with Paul Graham here but with one exception.
 
 I think if what you are doing is what you love to do then the above age discussion does not matter. But this exception can also be counter argued in the next point that is expertise.
-Expertise
+
+**Expertise**
 
 Knowing your stuff is very important in life and when we talk about starting a startup then its extremely important.
 
 You must know what you are good at and then use that skill to add value to your startup.
 
-    Mark Zuckerberg: Quite good at coding
-    Steve Jobs: Known for his creativity
-    Bill Gates: Again, coding.
-    Warren Buffett: started his partnership after he had learned investing under his guru Benjamin Graham. (Also, bought his first share at age 11)
-    Elon Musk: At age 12 sold his first game which he programmed.
+1. Mark Zuckerberg: Quite good at coding
+2. Steve Jobs: Known for his creativity
+3. Bill Gates: Again, coding.
+4. Warren Buffett: started his partnership after he had learned investing under his guru Benjamin Graham. (Also, bought his first share at age 11)
+5. Elon Musk: At age 12 sold his first game which he programmed.
 
 All these people when went into forming a company where they knew what they were dealing with.
 
 They didn’t start a startup just for the sake of it instead they found a gap in the society and exploited it towards their advantage.
 
 So, even Paul Graham suggests that focus on gaining knowledge and not starting a company just for the sake of it. Your company must add value to the lives of people it serves for.
-Ideas
+
+**Ideas**
+
 1. Generating an Idea
 
 So, how does one generate an idea to work on?
@@ -82,6 +88,7 @@ Soon, you will be stumbled upon some problems which if solved can help many peop
 One such example could be of usage of paper in the courts.
 
 In India, so much of work is still done on papers. So, if you could build an integrated system that could reduce the usage of paper drastically then it could be a good idea to work on.
+
 2. Quality of Idea
 
 Talking about startup ideas one must also know about the quality of it.
@@ -105,6 +112,7 @@ They discuss that if you are living in the future and recognize the gaps in the 
 My thought(an example): If you have recognized a problem which people will start facing when there are electric vehicles all around, then I think you might have an idea which could long live.
 
 Whereas, if you have an idea for a problem which exist in the present world then there is a huge possibility that a big corporation could take over your idea as they might have recognized it way before you. (Or, they might have the resources to take over your idea)
+
 3. Taking the Leap
 
 Alright, now you have generated an idea which has been derived by your own experience, solving a problem which people are facing in their day to day life, and the solution which you are proving is 10 times better, but…
@@ -121,18 +129,19 @@ He writes that all these so-called college dropouts always had a backup plan in 
 
 Here is the list of examples he gave:
 
-    Phil Knight: Phil had started selling shoes out of his truck in 1964 but still kept his job as an accountant until 1969.
-    Steve Wozniak: Continued to work in HP even after starting Apple for a year.
-    Larry Page & Sergey Brin: They had figured out google in 1996 but didn’t go leave their Ph.D. programs until 1998. Page said, “we were too worried about dropping out of our Ph.D. program.”
-    Ava DuVernay: Made her first three films while working in her day job as a publicist.
-    Brian May: After playing guitar for seven years he decided to go all in.
-    Pierre Omidyar: He had built ebay as a hobby and left his day job only after it was earning more money than his job.
-    Henry Ford: started his automotive company while being employed under Thomas Edison.
-    Bill Gates: Bill waited for an entire year after selling his first software. Even then he did not drop out, instead took a leave of absence. Plus he had his parents to for financial support.
+1. Phil Knight: Phil had started selling shoes out of his truck in 1964 but still kept his job as an accountant until 1969.
+2. Steve Wozniak: Continued to work in HP even after starting Apple for a year.
+3. Larry Page & Sergey Brin: They had figured out google in 1996 but didn’t go leave their Ph.D. programs until 1998. Page said, “we were too worried about dropping out of our Ph.D. program.”
+4. Ava DuVernay: Made her first three films while working in her day job as a publicist.
+5. Brian May: After playing guitar for seven years he decided to go all in.
+6. Pierre Omidyar: He had built ebay as a hobby and left his day job only after it was earning more money than his job.
+7. Henry Ford: started his automotive company while being employed under Thomas Edison.
+8. Bill Gates: Bill waited for an entire year after selling his first software. Even then he did not drop out, instead took a leave of absence. Plus he had his parents to for financial support.
 
 (I think Steve Jobs is an exception to the list)
 
 So, if you look at the list being risk-averse is not a bad idea at all. Instead it provides you with a safety which helps you in exploring things in the way you wanted to.
+
 4. Idea vs Execution
 
 Taking a leap also depends on what type of idea it is.
@@ -145,10 +154,10 @@ I would again like to link the video which I mentioned above for better understa
 
 Quotes from that video:
 
-    “Ideas are cheap and easy and execution is everything.” Shane Parish
+> “Ideas are cheap and easy and execution is everything.” Shane Parish
 
-    Great insight(Ideas) are like Archimedes lever that when its moved, it moves the world but, it still requires movement(execution).Mike Maples
+> Great insight(Ideas) are like Archimedes lever that when its moved, it moves the world but, it still requires movement(execution). Mike Maples
 
-Inshort
+**Inshort**
 
 When you decide to start a startup always consider three things: Opportunity cost, your expertise, and value of your idea. Plus, even after that always have a backup plan as you don’t know what you don’t know.
