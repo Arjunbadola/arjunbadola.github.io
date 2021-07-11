@@ -6,14 +6,18 @@ published: true
 Coffee is a very sticky category. They become your habit and gets inside your daily routine. Sometimes, if you don’t get a good cup of coffee in the morning your whole mood gets spoiled for the day. So, changing this habit can be quite difficult.
 
 Thinking about the point mentioned above I started analysis of a company called CCL Products (India) Ltd.
-About
+
+**About**
 
 CCL Products (India) Ltd was formed set up in 1994 and commenced commercial operations in 1995. It is an export oriented unit with the ability to import green coffee into India from any part of the world and export the same to any part of the world, at cost advantage like with no/less duties due to benefits received by trade agreements between nations.
-Business Model:
 
-Continental Coffee Limited Products India [CCL Products (India)] deals in two segment B2B and B2C.
+**Business Model**
+
+Continental Coffee Limited Products India deals in two segment B2B and B2C.
 
 Here is an image to explain their B2B segment:
+
+![Axis Securities](/assets/AxisCCL.PNG)
 
 Source: Axis Securities
 
@@ -30,7 +34,8 @@ They have launched their own consumer brand, Continental Coffee and plans to tak
 In 1997, they had only one plain vanilla product therefore they had no USP which led to quite a bad experience. Company had to withdrawn there product due to bad response. Company was new to consumer market that time. They had done a nationwide launch of the product without understanding of the Indian market, which led to the failure.
 
 But now they have entered the market after 20 years with the understanding of the market and taking things slowly to check the response. For example: company currently deals in South India market only and plans to expand on after gaining 5% market share.
-Moat
+
+**Moat**
 
 1. Stickiness of business: It becomes quite difficult for a company to switch to a different supplier when quality is big importance for them. So, businesses tend to ‘stick’ with the same supplier (CCL) which gives supplier power to charge high price. As getting the right blend in coffee is quite a task.Their customers would want to maintain consistency in quality and taste of their product which means they won’t go changing vendors easily therefore, this also creates hence switching costs barrier. 
 2. As CCL Products (India) Ltd is one of the largest instant coffee producers in the world, it also gets a Moat of Economies of Scale due to its cost efficiency.Once company had lost a customer who had set up their own plant . But soon that customer had to return back as CCL’s price was lower than that customer’s cost. Plus that customer could not replicate the premium blend made by CCL. Thus this shows the power of CCL Products (India) Ltd.
@@ -52,20 +57,22 @@ Moat
 14. Comparing with competition both the players (Nescafe & Bru) the advantage which CCL has is economies of scale. CCL has double production capacity, which means per kg cost is going to be lower than the competition.
 15. The company saves cost on transportation with regard to India as they receive exemption of income tax from Vietnam. Also, Vietnam enjoy MFN status with many countries which helps the company save cost.
 
-Nescafe & Bru vs Continental Coffee
+**Nescafe & Bru vs Continental Coffee**
 
 1. With my research I came to know that people liked the taste of Continental Coffee better than Nescafe (Remember this is very subjective and can be wrong). I think it is because CCL makes granules coffee which retains the aroma whereas Nescafe deals in powder coffee.
 2. In India, Nestle is into the business of selling agglomerated form of coffee and Bru sells Spray Dried powder which is in chicory blend. Whereas, CCL has made a new category which is agglomerated Spray-Dried coffee.
 3. Comparing with competition both the players (Nescafe & Bru) the advantage which CCL has is economies of scale. CCL has double production capacity, which means per kg cost is going to be lower than the competition [As mentioned above].
 4. In Q1 FY17 the management explained their competition with Nestle with regard to the Frezee Dried Coffee (look at the image below).Nestle has to pay 110% of import duties to bring in Freeze Dried Coffee whereas CCL Products (India) Ltd can sell the same at 30% less cost.
 
-Tata Coffee Vs Continental Coffee
+![Nestle vs CCL](/assets/Nestle.PNG)
+
+**Tata Coffee Vs Continental Coffee**
 
 1. In 2017, Tata coffee has build 5000 mt of freeze dried capacity in Vietnam due to incentives given by the government. I am not sure but I read somewhere that the incentives end in 2020 (Will update as soon as I find a reliable source).
 2. CCL Products (India) Ltd has more capacity than Tata Coffee, that is one of the reasons why CCL used to trade at higher multiples.
 3. Tata is also into the business of plantations, that is backward integration, which exposes them to risks like volatility in prices and productivity due to monsoon. So we can say that business models of Tata coffee and CCL Products (India) Ltd are different.
 
-How the company keeps away the competition
+**How the company keeps away the competition**
 
 There is lots of competition as there is lots of excess capacity in world. There is competition from Brazil, Mexico, Singapore, Malaysia, China, Vietnam, India, Europe.
 
@@ -78,7 +85,7 @@ But CCL Products (India) Ltd has still maintained its good position. The reasons
 5. Customers are usually very picky and they will stick with same quality standards. Therefore, once a customer introduces a particular blend into the market it is difficult for them to switch to other blends.
 6. Company also supplies coffee exclusively to military.
 
-Growth Opportunities
+**Growth Opportunities**
 
 1. There is going to be expansion in Vietnam of around 3500 tons capacity.
 2. Management has said that their branded business is growing at 40% rate, which is sustainable.
@@ -97,9 +104,9 @@ Growth Opportunities
 15. CCL Products (India) Ltd by just installing few equipments can increase their Vietnam capacity by 15,000 MT and 5000 MT in India.
 16. Finally coffee is the second most traded commodity in the world after oil. Also, we know that caffeine is addictive so this gives us broader view that demand will be there.
 
-About the Management:
+**About the Management**
 
-In Prof. Sanjay Bakshi’s article, Seven Intelligent Fanatics from India, he inverts the management analysis and gives four elements of dumb behavior which are as follows:
+In Prof. Sanjay Bakshi’s article, [Seven Intelligent Fanatics from India](https://fundooprofessor.wordpress.com/2015/07/10/intelligent-fanatics/), he inverts the management analysis and gives four elements of dumb behavior which are as follows:
 
 1. Over-aggression, usually expressed in the form of excessive leverage;
 2. Growth without any regard to profitability;
@@ -115,7 +122,8 @@ Further, they had declined Joythy Labs offer to make new products as they were a
 For the third point we can see that company’s core business is related to coffee and they deal in products related to that only. So, I think there are no signs of ‘DIWORSEFICATION’.
 
 Forth point deals with ability to delegate. There is not such information regarding that but I believe they have a team which is handling their domestic business.
-Updates
+
+**Updates**
 
 1. Company has seen delay in delivery of stocks due to break of their delivery system due to COVID.
 2. There has been increase in employee cost as a new unit has been set-up.
@@ -125,14 +133,14 @@ Updates
 6. Vietnam unit gets tax benefit which is not for lifetime!
 7. Currently, their market share in South India is 4%. Management says that as soon as they reach 5% they would start entering new market and plans for the same has already began. The reason for taking things slowly is due to their past experience of 1997. In 1997, company had decided to enter retail business and launched their nationwide. They had only one plain vanilla product and experience was so bad that they had to withdrawn there product. But now after researching and bringing in specialized products they entered the market after 20 years!
 
-Threats
+**Threats**
 
 1. CCL Products (India) Ltd avoids commodity risk by having contracts on a back to back basis at fixed prices.
 2. Further, currency risk is also avoided as entire coffee trade is USD denominated
 3. There can be huge risk of bad debts as this company has concentrated clients. But looking at the past records and their relations even such risk is avoided till an extend.
 4. Tata Coffee has build 5000 mt of freeze dried capacity in Vietnam. This is small capacity but this shows they have entered into the league.
 
-Valuation
+**Valuation**
 
 I try to follow the expected return model which is followed by Prof. Sanjay Bakshi. Here is the link to it: [(click here)](https://www.safalniveshak.com/email-exchange-with-sanjay-bakshi-on-valuations/)
 
@@ -146,12 +154,15 @@ As said by Prof. Sanjay Bakshi such practice provides margin of safety by:
 
 “The idea behind the above is to create multiple sources of margin of safety. The first point delivers a margin of safety by keeping you away from bad businesses. Investors should recognize that margin of safety, apart from a low price, can also come from a high-quality business. The other two points help you think about reasonable valuation a decade from now.“
 
-This valuation is made further simpler by using an excel sheet (provided by Safal Niveshak, thanks to him!): [(link)](https://www.notion.so/arjunbadola/CCL-Products-3d8015499cba4cb89146ff9b60a13dd3)
+This valuation is made further simpler by using an excel sheet (provided by Safal Niveshak, thanks to him!):
+
+![value](/assets/excel.PNG)
 
 Remember depending completely on Excel can be quite dangerous sometimes. As people tend to tweak it as per their needs.
 
 What I follow is after my thorough analysis I just put in the numbers in the excel sheet and if the market cap is near the discounted value I would buy shares of the company.
-Inshort
+
+**Inshort**
 
 CCL Products (India) Ltd has a cost-efficient business model, long-standing relationships with customers as the product has stickiness, economies of scale as they are the lowest cost producer, they have the expertise to produce the right blends and their location which saves them logistical costs helps the company get an edge over competitors.
 
