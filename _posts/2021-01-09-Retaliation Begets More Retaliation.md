@@ -5,7 +5,9 @@ Market is at all time high and I am here sitting with more than 70% cash.
 
 What should I do? Write to relax your mind.
 
-I was just surfing through Twitter and came across this [tweet](https://twitter.com/ShaneAParrish/status/1347919412142235649?ref_src=twsrc%5Etfw).
+I was just surfing through Twitter and came across this tweet.
+
+[![Shane Parrish](/assets/shane.PNG)](https://twitter.com/ShaneAParrish/status/1347919412142235649?ref_src=twsrc%5Etfw)
 
 The mental model: "retaliation begets more retaliation" is very helpful in your life.
 
