@@ -70,7 +70,7 @@ I still remember a dialogue from the movie Singham which I had seen when I was i
 
 The dialogue was: "meri zarooratein kam hai, iss liye mere zameer mein dum hai"
 
-Please watch before continuing reading: [link](https://youtu.be/mK6rc84fFLc))
+Please watch before continuing reading:
 
 [![singham](/assets/singham.PNG)](https://www.youtube.com/watch?v=mK6rc84fFLc)
 
