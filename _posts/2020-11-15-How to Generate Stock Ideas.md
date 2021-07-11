@@ -10,7 +10,15 @@ The most simple way is to look around yourself, at your home, workplace, while t
 
 There would some products which you might be using for years and understand why nobody else is able to take away their market share.
 
-Look at the photos provided in this Safal Niveshak [article](https://www.safalniveshak.com/how-to-find-great-businesses-peter-lynch-way/).
+Look at the photos made by [Safal Niveshak](https://www.safalniveshak.com/how-to-find-great-businesses-peter-lynch-way/):
+
+![safal](/assets/safal.jpg)
+
+![safal2](/assets/safal2.jpg)
+
+Here is another photo, but this time from [Basant Maheshwari’s](https://twitter.com/BMTheEquityDesk) book: The Thoughtful Investor
+
+![basant](/assets/basant.jpg)
 
 This approach gives you an edge in terms of knowing how the products actually delivers.
 
