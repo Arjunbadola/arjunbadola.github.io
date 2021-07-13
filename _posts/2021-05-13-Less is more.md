@@ -10,13 +10,11 @@ You might be thinking that all platforms allow shifting, and it shouldn't be tha
 
 The idea of having a blog came when I realized that I wanted to clear my mind through repeating thoughts and did not want to repeat something again and again for explaining it to different people.
 
-This was further motivated when I received very negative criticism from someone. So, I wanted to unleash my anger somewhere. Therefore, I wrote the first blog post: "Criticism: why people get defensive"
+This was further motivated when I received very negative criticism from someone. So, I wanted to unleash my anger somewhere. Therefore, I wrote the first blog post: ["Criticism: why people get defensive"](https://arjunbadola.blog/Criticism-Why-People-Get-Defensive/)
 
 It worked! I felt like I had expressed myself while introspecting my thoughts again while writing. It was a good activity overall. Since, then I have been anchored on the idea.
 
-
 **Shift #1: From WordPress(.com) to WordPress(.org)**
-
 
 WordPress is the most popular blogging site.
 
@@ -32,9 +30,7 @@ I spent 2 months on WordPress(.com) and around 8-10 months on WordPress(.org)
 
 This was going fine until...
 
-
 **Shift #2: From WordPress(.org) to Notion**
-
 
 WordPress(.org) is quite a good platform if someone wants to make a website for commercial purposes. But that was the exact problem with it.
 
@@ -42,12 +38,11 @@ I had got indulged into blogging so much and I had started neglecting other aspe
 
 My focus has shifted from investing and my college studies towards bringing in more audience on my blog!
 
-I have expressed this feeling in one of my previous essays, "Losing Focus".
+I have expressed this feeling in one of my previous essays, ["Losing Focus"](https://arjunbadola.blog/Losing-Focus/).
 
 Here is what I wrote there:
 
-_"I was more interested in people subscribing to my email list and that would give me dopamine hit (Just like how it happens with likes on social media). I got so lost in this chase of email list that I would spend more time thinking about how to get a bigger audience instead of learning about companies and investing. Subconsciously, paying more attention to building an audience led me to settling down in other field of my life."
-_
+_"I was more interested in people subscribing to my email list and that would give me dopamine hit (Just like how it happens with likes on social media). I got so lost in this chase of email list that I would spend more time thinking about how to get a bigger audience instead of learning about companies and investing. Subconsciously, paying more attention to building an audience led me to settling down in other field of my life."_
 
 This was the phase I decided to knock everything out and quit running behind building an audience.
 
@@ -71,9 +66,7 @@ Therefore, when both the problems came together, I decided to switch once again.
 
 I discovered Posthaven which a start-up funded by Y Combinator and as I liked thoughts of Paul Graham and Sam Altman (who even has his personal blog on it) I got convinced for making the switch.
 
-
 **Shift #4: From Posthaven to GitHub Pages**
-
 
 Posthaven was great. Till date, I have no issues with their blogging platform (except one).
 
@@ -81,7 +74,7 @@ If you are not into monetizing your blog, I would highly recommend this platform
 
 It matches with the example of "Less is More". It removes the options of plugins, provides only 3-5 themes, no update/maintenance required, No SEO option, etc.
 
-Here is what I had tweeted earlier: https://twitter.com/badola_arjun/status/1359868521988067328
+Here is what I had tweeted earlier: [link](https://twitter.com/badola_arjun/status/1359868521988067328)
 
 On paper it looks like the experience would be pathetic. But less options really made writing clutter free.
 
@@ -107,9 +100,9 @@ Finally, after being frustrated from constant reminder of payment being failed, 
 
 Yesterday, I dedicated my whole day to fixing this problem by leaving a bit of GitHub pages and completed the process of making the switch.
 
-Now, it is just a plain static website where I have taken the less is more concept to much deeper levels.
+Now, it is just a plain static website where I have taken the "Less is More" concept to much deeper levels.
 
-Only thing which this blog has is my posts (and a about me page).
+Only thing which this blog has is my posts (and a About page).
 
 It took a lot of effort to build a github pages website but I believe that it was just the upfront effort which I had to put in. Now, effort for adding new post is minimal.
 
