@@ -10,7 +10,7 @@ My investing style has evolved from being a pure Benjamin Graham style investor 
 
 So, In short - I look for companies which have huge market size opportunity, ability to grab that opportunity, No legal or ethical questions being raised on the management, and is available at reasonable valuation.
 
-Currently I have been working in collaboration with [SOIC](https://soic.in/blogs) for writing indsutry and company analysis reports.
+Currently I have been working in collaboration with [SOIC](https://soic.in/blogs) for writing industry and company analysis reports.
 
 People from whom I keep learning:
 
@@ -20,8 +20,8 @@ People from whom I keep learning:
 
 3. Prof. Sanjay Bakshi: He is also heavily influenced by the above two mentioned but I liked his valuation method which includes three stages of margin of safety. Further, his multidisciplinary approach is one thing which I admire.
 
-4. Bharat Shah: After reading his book I realized how important it is to look for grow in companies. Here is a qoute by him which would summarize this concept: "When growth goes away, equities reduce to a bond. It will be treated like a bond for a while. If the picture deteriorates further, then it will be treated worse than a bond."
+4. Bharat Shah: After reading his book I realized how important it is to look for growth in companies. Here is a qoute by him which would summarize this concept: "When growth goes away, equities reduce to a bond. It will be treated like a bond for a while. If the picture deteriorates further, then it will be treated worse than a bond."
 
-5. Ishmohit Arora: He is the founder of SOIC. By writing reports for SOIC I have learnt that if your business analysis is strong, one would automatically understand the valuation part. Valuation must always come after getting the business analysis right.
+5. Ishmohit Arora: He is the founder of SOIC. By writing reports for them I have learnt that if your business analysis is strong, one would automatically understand the valuation part. Valuation must always come after getting the business analysis right.
 
 Also my field of interest in law disciplinary are Company Law, Contracts Law, and Securities Law.
