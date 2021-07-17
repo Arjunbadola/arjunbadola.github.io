@@ -3,18 +3,18 @@ published: true
 ---
 Whenever someone who is new to the stock market asks me for book recommendations to start with, I share the following list and tell them to follow the exact order:
 
-1. The Richest Man in Babylon by George Samuel Clason
-2. Rich Dad Poor Dad by Robert T. Kiyosaki
-3. Art of Stock Investing: Book on Indian Stock Market by Manikandan Ramalingam
-4. Learn to Earn by Peter Lynch
-5. One Upon Wall Street by Peter Lynch
-6. Common Stocks and Uncommon Profits by Philip A. Fisher
-7. The Intelligent Investor by Benjamin Graham (Chapter 8 & 20)
-8. Warren Buffett Partnership Letters
-9. Letters To Shareholders of Berkshire Hathaway by Warren Buffett
-10. Masterclass With Super-Investors by Vishal Mital & Saurabh Basrar
-11. The Little Book That Builds Wealth by Pat Dorsey
-12. Poor Charlie’s Almanack: The Wit and Wisdom of Charles T. Munger by Charles T.Munger, Peter E. Kaufman (Editor)
+1. [The Richest Man in Babylon](https://www.amazon.in/gp/product/9388423399/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=9388423399&linkCode=as2&tag=arjunbadola-21&linkId=4ee89b7a5b1c482e2ee0ec4cf1aa5991) by George Samuel Clason
+2. [Rich Dad Poor Dad](https://www.amazon.in/gp/product/1612680194/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1612680194&linkCode=as2&tag=arjunbadola-21&linkId=a1b21d4d75f40bd523e4e7fe29f960d0) by Robert T. Kiyosaki
+3. [Art of Stock Investing: Book on Indian Stock Market](https://www.amazon.in/gp/product/B0755L93RW/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B0755L93RW&linkCode=as2&tag=arjunbadola-21&linkId=50f43971ca3d47f475e656efb178fc27) by Manikandan Ramalingam
+4. [Learn to Earn](https://www.amazon.in/gp/product/0684811634/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0684811634&linkCode=as2&tag=arjunbadola-21&linkId=fa022581e97178a293ee67fe2e7c283c) by Peter Lynch
+5. [One Upon Wall Street](https://www.amazon.in/gp/product/0743200403/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0743200403&linkCode=as2&tag=arjunbadola-21&linkId=079adc7b214254217c9f7ffed320efaf) by Peter Lynch
+6. [Common Stocks and Uncommon Profits](https://www.amazon.in/gp/product/B00XCC5Y0O/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00XCC5Y0O&linkCode=as2&tag=arjunbadola-21&linkId=3cf94439685a7043b0ab4e6ed13121f3) by Philip A. Fisher
+7. [The Intelligent Investor](https://www.amazon.in/gp/product/0062312685/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0062312685&linkCode=as2&tag=arjunbadola-21&linkId=7331a4efc334a161018268929b3d9895) by Benjamin Graham (Chapter 8 & 20)
+8. [Warren Buffett Partnership Letters](http://csinvesting.org/wp-content/uploads/2012/05/complete_buffett_partnership_letters-1957-70_in-sections.pdf)
+9. [Letters To Shareholders of Berkshire Hathaway](https://www.berkshirehathaway.com/letters/letters.html) by Warren Buffett
+10. [Masterclass With Super-Investors](https://www.amazon.in/gp/product/9388304187/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=9388304187&linkCode=as2&tag=arjunbadola-21&linkId=82df33c951165bc170f1b2b664059579) by Vishal Mital & Saurabh Basrar
+11. [The Little Book That Builds Wealth](https://www.amazon.in/gp/product/047022651X/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=047022651X&linkCode=as2&tag=arjunbadola-21&linkId=000479d6578082915c8b1251f409d23c) by Pat Dorsey
+12. [Poor Charlie’s Almanack: The Wit and Wisdom of Charles T. Munger](https://www.amazon.in/gp/product/1578645018/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1578645018&linkCode=as2&tag=arjunbadola-21&linkId=05c06b4db3305339cd2a017330d5beae) by Charles T.Munger, Peter E. Kaufman (Editor)
 13. Of Long-term Value & Wealth Creation by Bharat Shah
 
 The order matters only for the first four after that one can go as they will. But why do I mention following this specific order? Because they help in building a mindset which is crucial for one's investing journey.
