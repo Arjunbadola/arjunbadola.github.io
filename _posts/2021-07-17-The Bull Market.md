@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 For the new investors out there, the stock market is like a pendulum; it moves between positivism (Bull Market) and pessimism (Bear market). It rarely stays in between where the sentiment is neutral. This was also the main point of the book written by Howard Marks, ["Mastering the Market Cycle"](https://www.amazon.in/gp/product/1473680379/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1473680379&linkCode=as2&tag=arjunbadola-21&linkId=d73568de60541996a5d883ecb3ffe6c6). Here are my notes on that book: [Link](https://twitter.com/badola_arjun/status/1356872779518390272)
 
