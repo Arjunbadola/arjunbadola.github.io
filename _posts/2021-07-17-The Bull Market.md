@@ -1,11 +1,9 @@
 ---
 published: true
 ---
-For the new investors out there, the stock market is like a pendulum; it moves between positivism (Bull Market) and pessimism (Bear market). It rarely stays in between where the sentiment is neutral. This was also the main point of the book written by Howard Marks, ["Mastering the Market Cycle"](https://www.amazon.in/gp/product/1473680379/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1473680379&linkCode=as2&tag=arjunbadola-21&linkId=d73568de60541996a5d883ecb3ffe6c6). Here are my notes on that book: [Link](https://twitter.com/badola_arjun/status/1356872779518390272)
+For the new investors out there, the stock market is like a pendulum; it moves between positivism (Bull Market) and pessimism (Bear market). It rarely stays in between where the sentiment is neutral. This was also the main point of the book written by Howard Marks, ["Mastering the Market Cycle"](https://www.amazon.in/gp/product/1473680379/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1473680379&linkCode=as2&tag=arjunbadola-21&linkId=d73568de60541996a5d883ecb3ffe6c6). ([Notes](https://twitter.com/badola_arjun/status/1356872779518390272))
 
-Fun Fact: You may think why is it called Bear and Bull market?
-
-It is based on how each of these animals attack.
+**Fun Fact**: You may think why is it called Bear and Bull market? It is based on how each of these animals attack.
 
 A bear using his paws attacks in a downward direction whereas a bull by the use of its horns hits in the upward direction (If you have watched Scam 1992 then I am sure you know this).
 
@@ -88,18 +86,21 @@ Honestly, after a certain number of attempts I stop explaining to people about c
 
 The purpose of writing this post was that I wanted to show how people around me are behaving and perhaps, I can re-read it after a year or so. I could add in my diary that in 2018, when I used to tell my college friends about investing, nobody was interested whereas in 2020-21 everyone wants to be rich.
 
-All I want to say is that don't enter the market just because "Stonks" seems cool or your friend made huge money. 
+All I want to say is that don't enter the market just because "Stonks" seems cool or your friend made huge money.
+
+![stonks](/assets/stonks.png)
 
 Always think in terms of consistency.
 
-Remember, you only need to make one mistake to lose your hard earned money in the market.
-Here is a chart to show you how much return one needs to recover back their capital:
+Remember, you only need to make one mistake to lose your hard earned money in the market. Here is a chart to show you how much return one needs to recover back their capital:
+
+[![losschart](/assets/Mathofrecovery.png)](http://shurwest.com/wp-content/uploads/2013/08/The-Math-of-Gains-Losses.pdf)
 
 ## Inshort
 
 > Bull markets go to people's heads. If you're a duck on a pond, and it's rising due to a downpour, you start going up in the world. But you think it's you, not the pond. - Charlie Munger
 
-Jason Zweig on a podcast mentioned that if one is not passionate about investing, they should not do it. Rather, buy the index and do things which you are passionate about.
+Jason Zweig on a [podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9pbmZpbml0ZWxvb3BzLmxpYnN5bi5jb20vcnNz/episode/OTEyMGUzN2YtOWY1Zi00MmQ2LTlhNjUtZDdiOWE4MThiNDNj?ep=14) mentioned that if one is not passionate about investing, they should not do it. Rather, buy the index and do things which you are passionate about.
 
 I had shared a similar thought in one of my previous posts, [It's Difficult](http://arjunbadola.blog/It's-Difficult/).
 
