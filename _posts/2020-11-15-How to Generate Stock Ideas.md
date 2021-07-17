@@ -4,7 +4,8 @@ published: true
 After reading books on investing, watching interviews, gaining some first hand market experience, etc. we are often faced with a question: How to generate stock ideas?
 
 Today I will be sharing some ways I try to look out for stock ideas.
-Look Around
+
+### _Look Around_
 
 The most simple way is to look around yourself, at your home, workplace, while travelling, etc. and start analyzing those companies.
 
@@ -28,7 +29,7 @@ Most of the times these companies are already recognized and have been overvalue
 
 Therefore it gets very difficult to get a fair price for such companies.
 
-**Other People’s Portfolio**
+### _Other People’s Portfolio_
 
 Checking portfolio of well known investors is also a good way to generate stock ideas.
 
@@ -50,7 +51,7 @@ The downside for this approach is that you will be faced with a lot of biases. I
 
 For checking other famous investor’s portfolio you can visit: Trendlyne
 
-**Websites/Blogs**
+### _Websites/Blogs_
 
 Subscribing to blogs and websites which provide you with portfolio update is another way.
 
@@ -60,7 +61,7 @@ For example: If you were reading an article on how Nestle is the market leader i
 
 You can also follow some twitter handles which provide you with bulk deals that happened in a day or you can also use #Bulkdeals in the twitter search.
 
-**Newspaper**
+### _Newspaper_
 
 With this approach one needs to be very careful.
 
@@ -74,7 +75,7 @@ As when you would read everyone panicking and selling as if the world is getting
 
 This what happened on Mar 23rd which led to people becoming a victim of herd mentality.
 
-**Mental Models**
+### _Mental Models_
 
 Always keep some mental models in your mind which will help you recognize the opportunity around.
 
@@ -92,7 +93,7 @@ Once you get some companies then you can go around the value chain or check thei
 
 I would suggest worry about financial matrix later, first find a great company and understand what it takes to be great.
 
-**Lastly**
+## _Lastly_
 
 If nothing works out, then my friend do as Warren Buffett says.
 
