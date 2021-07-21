@@ -14,7 +14,7 @@ This was further motivated when I received very negative criticism from someone.
 
 It worked! I felt like I had expressed myself while introspecting my thoughts again while writing. It was a good activity overall. Since, then I have been anchored on the idea.
 
-**Shift #1: From WordPress(.com) to WordPress(.org)**
+### Shift #1: From WordPress(.com) to WordPress(.org)
 
 WordPress is the most popular blogging site.
 
@@ -30,7 +30,7 @@ I spent 2 months on WordPress(.com) and around 8-10 months on WordPress(.org)
 
 This was going fine until...
 
-**Shift #2: From WordPress(.org) to Notion**
+### Shift #2: From WordPress(.org) to Notion
 
 WordPress(.org) is quite a good platform if someone wants to make a website for commercial purposes. But that was the exact problem with it.
 
@@ -51,7 +51,7 @@ So, I shifted my blog to Notion which is free (as I am a student) and discontinu
 But Notion came with its own set of problems.
 
 
-**Shift #3: From Notion to Posthaven**
+### Shift #3: From Notion to Posthaven
 
 
 There were majorly two problems with notion:
@@ -66,7 +66,7 @@ Therefore, when both the problems came together, I decided to switch once again.
 
 I discovered Posthaven which a start-up funded by Y Combinator and as I liked thoughts of Paul Graham and Sam Altman (who even has his personal blog on it) I got convinced for making the switch.
 
-**Shift #4: From Posthaven to GitHub Pages**
+### Shift #4: From Posthaven to GitHub Pages
 
 Posthaven was great. Till date, I have no issues with their blogging platform (except one).
 
@@ -94,9 +94,7 @@ This can be easily solved if they take payment annually. I do not really underst
 
 Finally, after being frustrated from constant reminder of payment being failed, I had to switch again.
 
-
-**Current Status**
-
+### Current Status
 
 Yesterday, I dedicated my whole day to fixing this problem by leaving a bit of GitHub pages and completed the process of making the switch.
 
