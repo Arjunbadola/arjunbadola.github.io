@@ -5,7 +5,7 @@ published: true
 
 Most of the time whenever you as a beginner think to invest in the market, you would be welcomed by a thought that “what edge do you really have?” 
 
-Specially when you see such photos where there are more than 10 screens in front of a person, you watch these kind of [videoes](https://www.youtube.com/watch?v=2u007Msq1qo), or hear terms like “Market is currently overbought!”
+Specially when you see such photos where there are more than 10 screens in front of a person, you watch these kind of [videos](https://www.youtube.com/watch?v=2u007Msq1qo), or hear terms like “Market is currently overbought!”
 
 [This](https://www.youtube.com/watch?v=VfW-jmQvv8I) is how trading used to look like, earlier in India. (At least technology have solved this behavior)
 
