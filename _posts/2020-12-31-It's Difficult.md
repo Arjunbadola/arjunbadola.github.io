@@ -25,9 +25,9 @@ If anyone says it’s easy and shows that they are making money, sooner or later
 
 Especially, don’t listen to people who started investing during a bull run and have never faced a bear market cycle.
 
-### Why I say it’s difficult?
+## Why I say it’s difficult?
 
-**Curiosity**
+### Curiosity
 
 > “You need a lot of curiosity for a long, long time.” - Warren Buffett
 
@@ -63,7 +63,7 @@ Plus, even after doing your thorough analysis still there is no guarantee you wo
 
 You will have your own set of failures.
 
-**Mental Pressure**
+### Mental Pressure
 
 Now getting information about companies requires hours/days of research and until then you experience FOMO (Fear Of Missing Out).
 
@@ -75,7 +75,7 @@ The pressure is not just from missing out its also from getting criticism.
 
 Now to handle that criticism one must have a solid conviction on the company and that would happen only after putting hours of research which would lead us to back to Curiosity and Passion.
 
-**Opportunity Cost**
+### Opportunity Cost
 
 At the initial stage when you would have come across something known as investing in stock market there is high probability that you might have got interested in making quick money.
 
@@ -109,7 +109,7 @@ I am not saying don’t try things and just sit within your limits, that would b
 
 I just want people to know the other side of the argument too (which is probably the reality).
 
-**My Experience?**
+### My Experience?
 
 I will be very honest with you.
 
@@ -139,6 +139,6 @@ Not getting ideas could be due various reasons:
 
 I feel all of the above reasons are currently playing out together.
 
-**Inshort**
+## Inshort
 
 If you are not curious and passionate about stock market investing then do yourself a favor, maintain distance & stay safe. One would be far better off by just buying into Index Fund through the mode of SIP.
