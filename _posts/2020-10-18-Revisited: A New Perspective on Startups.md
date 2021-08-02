@@ -73,7 +73,7 @@ Paul Graham suggests that focus on gaining knowledge and not starting a company 
 
 ### Ideas
 
-**Generating an Idea**
+- **Generating an Idea**
 
 So, how does one generate an idea to work on?
 
@@ -85,7 +85,7 @@ One such example could be of usage of paper in the courts.
 
 In India, so much of work is still done on papers. So, if you could build an integrated system that could reduce the usage of paper drastically then it could be a good idea to work on.
 
-**Quality of Idea**
+- **Quality of Idea**
 
 Talking about startup ideas one must also know about the quality of it.
 
@@ -109,7 +109,7 @@ My thoughts(an example): If you have recognized a problem which people will star
 
 Whereas, if you have an idea for a problem which exist in the present world then there is a huge possibility that a big corporation could take over your idea as they might have recognized it way before you. (Or, they might have the resources to take over your idea)
 
-**Taking the Leap**
+- **Taking the Leap**
 
 Alright, now you have generated an idea which has been derived by your own experience, solving a problem which people are facing in their day to day life, and the solution which you are providing is 10 times better, but…
 
@@ -138,7 +138,7 @@ Here is the list of examples he gave:
 
 So if you look at the list, being risk-averse is not a bad idea at all rather it provides you with a safety which helps you in exploring things in the way you wanted to.
 
-**Idea vs Execution**
+- **Idea vs Execution**
 
 Taking a leap also depends on what type of idea it is.
 
