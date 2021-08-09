@@ -4,7 +4,7 @@ I think I undermined the power of network effects while making that decision. Yo
 
 I could survive only for a month without WhatsApp.
 
-[Investopedia](https://www.investopedia.com/terms/n/network-effect.asp) defines the network effect as "a phenomenon whereby increased numbers of people or participants improve the value of a good or service."
+[Investopedia](https://www.investopedia.com/terms/n/network-effect.asp) defines the network effect as _"a phenomenon whereby increased numbers of people or participants improve the value of a good or service."_
 
 In simple terms, if more people use WhatsApp the better the experience will be because you would have all your friends to talk to on a single app which will make your process of chatting very convenient. 
 
