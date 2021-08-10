@@ -95,13 +95,13 @@ People won’t just suddenly shift to drinking coffee and leave tea which is che
 
 Here is how I think this company’s market cap would turn out to be after 10 years: 
 
-| CAGR for 10 yrs        | Expected Market Cap (Rs)          |
-| ------------- |:-------------:|
-| 5%      | 5000-6000 cr |
-| 8%      | 7000-8000 cr      |
-| 10% | 8000-9000 cr      |
-| 12% | 10000-11000 cr      |
-| 15% | 13000-13000 cr      |
+| CAGR for 10 yrs        | Expected Market Cap (Rs)          
+| ------------- |:-------------:
+| 5%      | 5000-6000 cr 
+| 8%      | 7000-8000 cr      
+| 10% | 8000-9000 cr      
+| 12% | 10000-11000 cr      
+| 15% | 13000-13000 cr      
 
 As per valuation method shared in the analysis (Exit P/E Multiple of 20)
 
