@@ -30,3 +30,5 @@ Just look at this and think over your decision again [(link)](https://www.forbes
 Note: I request all my contacts to switch to Signal for continuing our conversation. I know it might be little uncomfortable at the start but we can bring in the change.
 
 For understanding the arguments to make the switch read this post: [link](https://arjunbadola.github.io/Why-Signal-Over-WhatsApp/)
+
+Update: [Link](http://arjunbadola.blog/Network-Effects/)
