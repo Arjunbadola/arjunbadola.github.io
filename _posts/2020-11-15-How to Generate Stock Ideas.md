@@ -49,7 +49,7 @@ For example, if you look at the coffee industry the most money is made by proces
 
 The downside for this approach is that you will be faced with a lot of biases. If your favorite investor buys a companies there is high chance that even you will start liking that company.
 
-For checking other famous investor’s portfolio you can visit: Trendlyne
+For checking other famous investor’s portfolio you can visit: [Trendlyne](https://trendlyne.com/portfolio/superstar-shareholders/index/)
 
 ### _Websites/Blogs_
 
@@ -59,7 +59,7 @@ Reading blog articles on investing many times leads to discovery of new ideas.
 
 For example: If you were reading an article on how Nestle is the market leader in baby food, Royal Enfield in bikes, ITC in cigarettes, etc. this can lead to, you applying these models which have successfully worked on companies which are yet to be recognized by the market.
 
-You can also follow some twitter handles which provide you with bulk deals that happened in a day or you can also use #Bulkdeals in the twitter search.
+You can also follow some twitter handles which provide you with bulk deals that happened in a day or you can also use #Bulkdeals in the twitter search. I follow [Manish Mall](https://twitter.com/_Manishh_) for the same.
 
 ### _Newspaper_
 
