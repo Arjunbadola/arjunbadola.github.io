@@ -13,7 +13,7 @@ As soon as you start thinking about buying stocks as buying parts of a business 
 
 Let me share with you what changed for me when I started looking at stocks as piece of a business.
 
-**Ownership thinking**
+## Ownership thinking
 
 When looking at stocks as part of a business your focus shifts towards functioning of the business rather on stock price.
 
@@ -22,7 +22,8 @@ Stock price fluctuation stops troubling you and long term view of the business t
 You start caring less about what the price charts have to say and more on what the business performance is saying.
 
 Thinking as the owner of a business pops many questions into one’s mind, like
-1.If you were the owner of the business would you enter into business,that is do you understand the industry?
+
+- **If you were the owner of the business would you enter into business,that is do you understand the industry?**
 
 Investing in a business which falls under your circle of competence is the key to good returns.
 
@@ -38,7 +39,7 @@ One must understand that knowing everything does not help you succeed in investi
 
 > Investors should remember that their scorecard is not computed using Olympic-diving methods: Degree-of-difficulty doesn’t count. If you are right about a business whose value is largely dependent on a single key factor that is both easy to understand and enduring, the payoff is the same as if you had correctly analyzed an investment alternative characterized by many constantly shifting and complex variables. - Warren Buffett, 1994 Berkshire Hathaway Letters to Shareholders
 
-2. What edge would you have over your competitors?
+- **What edge would you have over your competitors?**
 
 Now, you have got a business which you understand but what competitive edge(Moat) does that business have?
 
@@ -50,7 +51,7 @@ A brand which has been created after heavy advertising for years would have a ve
 
 So things like customer loyalty, cheapest product, best quality in an industry where quality matters the most, relations(Trust, past record, corporate governance) matters a lot for survivability of a business.
 
-3. Will your business still exist after a decade?
+- **Will your business still exist after a decade?**
 
 Now even though, if you have the competitive edge which is required to survive in the industry it does not guarantee that the business will survive in the long run.
 
@@ -70,7 +71,7 @@ I would think that IT companies could be categorized as a fragile business. Ever
 
 But the same cannot be said for food consumption. If you look at Maggi noodles it was first launched in1983 and is still thriving in their industry. In 2015 they had faced a crisis due to which Maggi was banned but soon it was relaunched with increased price and rest is history.
 
-4. Is the industry prone to regulation?
+- **Is the industry prone to regulation?**
 
 Some industries are heavily regulated which makes difficult for a business to earn good returns.
 
@@ -82,7 +83,7 @@ Other category could be sin products: gambling, alcohol, tobacco products, etc t
 
 Well, I am not saying money can’t be made in these industries but it becomes quite difficult to survive in such industries. (But we do have some exceptions)
 
-5. It your business demanding too much inflow of cash?
+- **It your business demanding too much inflow of cash?**
 
 Growing a business could be really great. But one must understand that where the money is coming from?
 
@@ -98,7 +99,7 @@ You would start looking at ROE, ROCE, & margins of the business. (And other rela
 
 Understanding them and predicting that will they improve in future or sustain lets you understand whether the business would have enough cash to sustain its growth without external support.
 
-6. If there would be a crisis around the world, would your product still be in demand?
+- **If there would be a crisis around the world, would your product still be in demand?**
 
 This one is very controversially question as we never know what kind of crisis could come in the future. So, it is very difficult to answer whether your product/service will be in demand.
 
@@ -112,7 +113,7 @@ Everybody would needing space to live and that is limited, hence prices of the p
 
 So, thinking like this really lets you understand how strong is your business or we could say business being Antifragile.
 
-Management
+## Management
 
 After you are finished thinking like an owner you realize that in reality you are actually not the owner. So, what do you?
 
@@ -123,9 +124,10 @@ Example: If you were running a coffee business you would have definitely wanted 
 The most common thing which people say to look for is honest and competent management. That is quite essential and important if you do read that statement properly.
 
 As I have seen people just focusing on honesty and not competence. The reason being, to know whether a person is competent or not requires background check with enough knowledge of that field which would allow you to understand the whether what you are reading is true or false.
+
 What other questions could come in your mind?
 
-1.You would want the management to be clear and transparent.
+- **You would want the management to be clear and transparent**
 
 There should not be any transaction on which the management’s integrity can be questioned or a transaction leading to a lot of ambiguity.
 
@@ -133,18 +135,22 @@ For example having transactions with private entities. This could be a sign of t
 
 You don’t want a management which has been proven guilty or has serious allegations on them as we all know, there is never one cockroach in the kitchen.
 
-2. It is always preferred that the business is professionally managed unless the family running it has the competence to do so.
+- **It is always preferred that the business is professionally managed unless the family running it has the competence to do so**
 
 Like, you would not want the senior management to appoint some relative who is not competent for the job.
 
 Also, If the management is old then one should also think about the succession plans of the company.
 
-3. Further one must see, does the management consider growth at any cost?
+- **Further one must see, does the management consider growth at any cost?**
 
-Investing in a growth company seems very attractive but one must understand at what cost is the growth coming. Is the management destroying their previous relations just for a short term gain? Whether the profitability is going for toss when company grows? Is the product/service quality is going down as growth comes in? (Ex: Yes Bank, Satyam Computers)
+Investing in a growth company seems very attractive but one must understand at what cost is the growth coming. 
+1. Is the management destroying their previous relations just for a short term gain?
+2. Whether the profitability is going for toss when company grows? 
+3. Is the product/service quality is going down as growth comes in? (Ex: Yes Bank, Satyam Computers)
 
 This list of questions is not an exhaustive one but it could surely get started.
-Valuation
+
+## Valuation
 
 Now after you have gone through the above process, one would think how much money should be paid for a business?
 
