@@ -20,13 +20,13 @@ Such companies are perfect for wealth preservation but not for wealth generation
 
 I feel that I was late to the party and was looking at the rear view mirror instead of watching from windshield.
 
-In 2012 & 13 the company had grown by 38% & 29% respectively. Followed by 22% in 2015. But then, that growth never return as their size got much bigger.
+In 2012 & 13 the company had grown by 38% & 29% respectively. Followed by 22% in 2015. But then, that growth never returned as their size got much bigger.
 
 Will the previous growth of CCL return back?
 
 > A high growth company rarely goes back to the high growth stage after it starts to slow down on the growth curve. Basant Maheshwari
 
-**Why I sold CCL Products (India) Ltd ?**
+# Why I sold CCL Products (India) Ltd ?
 
 The main reason was opportunity size available for this company.
 
@@ -45,9 +45,9 @@ In my initially thesis I had overlooked this point as I had estimated that CCL w
 3. Growth in India: The consumption of coffee is only 20,000 tons compared to Japan at 35,000 and USA at 80,000 tons. A positive change in consumer lifestyle (specifically driven by western culture) with increasing higher disposable income could increase the coffee consuming in our country.
 4. B2C business: Here I was expecting that, if luck plays out, it could turn out to be a FMCG player like Nestle.
 
-### Counter arguments
+## Counter arguments
 
-**Taking Market Share Globally?**
+### Taking Market Share Globally?
 
 USA is surely a great coffee consumption market and is huge but majority of that market is fresh and ground coffee.
 
@@ -69,7 +69,7 @@ Another vantage point would be coffee prices.
 
 Generally when prices of a commodity hit the lowest level revenues of companies in that field must increase, which is not visible with CCL.
 
-**India Story: Next Nestle?**
+### India Story: Next Nestle?
 
 Somewhere deep down I knew that CCL’s B2B business was not growing and even the management was aware of this, which led them to entering into B2C in India.
 
@@ -90,7 +90,8 @@ But I never paid attention to numbers. They tell a different story.
 2-3% growth shows that India is tea consuming country and coffee at only 20,000 ton is going to stay there for a long time.
 
 People won’t just suddenly shift to drinking coffee and leave tea which is cheaper and has been go to drink for everyone for ages in India.
-Inshort
+
+## Inshort
 
 Here is how I think this company’s market cap would turn out to be after 10 years: 
 
