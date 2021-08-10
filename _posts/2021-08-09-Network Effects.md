@@ -10,7 +10,7 @@ In simple terms, if more people use WhatsApp the better the experience will be b
 
 So, if more people with whom you want to talk to are present on WhatsApp exclusively then it is very unlikely that you would use any other app.
 
-WhatsApp is day by day deepening its moat by integrating its usage into essential services like: banking, daily updates, newsletters, customer support, etc, Recently, government also integrated WhatsApp towards providing your vaccine certificate.
+WhatsApp is day by day deepening its moat by integrating its usage into essential services like: banking, daily updates, newsletters, customer support, etc, Recently, government also integrated WhatsApp towards providing your [vaccine certificate](https://twitter.com/OfficeOf_MM/status/1424309658093715456).
 
 They have also started WhatsApp payments which will further make you depend on their app. Even though it would be convenient, but we know how its parent handles the user's privacy. But WhatsApp was quite late to this payment system party which is now captured by Gpay & Paytm.
 
@@ -44,7 +44,7 @@ If you are providing a service which is embedded into a person's daily routine t
 
 Something similar happened with Signal. 
 
-The sudden burst of so many users switching to it, their small team couldn't handle so many request at once which led to various issues like message not sending due to huge traffic on the app, calling dropping off, or manufacturer purposely blocking notifications.
+The sudden burst of so many users switching to it, their small team couldn't handle so many request at once which led to various issues like message not sending due to huge traffic on the app, calling dropping off, or [manufacturer purposely blocking notifications](https://twitter.com/signalapp/status/1356750728283385856).
 
 ## Moat not a Joke
 
