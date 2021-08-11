@@ -72,7 +72,7 @@ All these things were acting together making me bias towards that purchase. But 
 
 Coming back to my recently purchases, one thing I realized that playing those games didn't really make me happy. Rather it felt like a task which I brought into my life.
 
-When I was in school, I used to play a lot of games. I was crazy about them and now the urge to play games came again. I was fine with it until I realized even after taking the call of buying a game and playing it, I didn't really feel happy. Rather, watching Samit Varik's interview, writing a blog post, and reading annual report of a company gave me immense pleasure.
+When I was in school, I used to play a lot of games. I was crazy about them and now the urge to play games came again. I was fine with it until I realized even after taking the call of buying a game and playing it, I didn't really feel happy. Rather, watching [Samit Vartak's interview](https://youtu.be/Bd5awxguTTE), writing a blog post, and reading annual report of a company gave me immense pleasure.
 
 ## Inshort
 Understand yourself. Introspect and see what decision you took with an assumption that you would do it for a very long time but ended up quitting. There are going to be only few things in life which will really excite you. As and when you keep repeating those activities it would reach a stage where the efforts for any incremental activity would be zero and it would be embed into your lifestyle leading to higher probability for doing that activity for long term.
