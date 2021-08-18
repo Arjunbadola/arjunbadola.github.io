@@ -17,7 +17,7 @@ Getting back to the topic...
 
 So, I am writing this article to mention one behavioral thing that happens during the bull run or in anticipation of it, that is, the bull market just makes everyone interested in the market!
 
-Since the COVID crash, so many of my friends started getting interested in the market. In my college too, an investment society was formed and a reading group too. (The latter one failed)
+Since the COVID crash, so many of my friends started getting interested in the market. In my college too, an investment society was formed and a reading group too.
 
 Therefore, I think new investors coming into the market is one of the most prominent signals of a bull market going on. (Not commenting whether it will last or not)
 
@@ -64,8 +64,7 @@ I asked him a simple question: "How much return do you need to get back your cap
 
 ### Group of people #4
 
-I had made a friend through a reading group in my college, which I think no longer exists.
-People there were new to investing but they were certain about one thing that they wanted to build a career around it.
+I had met few people through a reading group in my college, there were new to investing but they were certain about one thing that they wanted to build a career around it.
 
 They had never experienced the market but were ready to do it for their whole life.
 
