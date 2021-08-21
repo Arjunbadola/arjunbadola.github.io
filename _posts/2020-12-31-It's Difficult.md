@@ -17,17 +17,17 @@ Unless you have the curiosity and the passion to enjoy the learning process, you
 
 Stories like, “if you would have invested in ______ company you would have become very rich” are very misguiding.
 
-The main question one should ask that whether one would be able to hold a company for so long?
-
 This would lure you into investing in stock market but in reality finding such businesses and having them as a meaningful part of your portfolio is very difficult.
+
+The main question one should ask that whether one would be able to hold a company for so long?
 
 If anyone says it’s easy and shows that they are making money, sooner or later, they would run out of luck.
 
 Especially, don’t listen to people who started investing during a bull run and have never faced a bear market cycle.
 
-## Why I say it’s difficult?
+# Why I say it’s difficult?
 
-### Curiosity
+## Curiosity
 
 > “You need a lot of curiosity for a long, long time.” - Warren Buffett
 
@@ -55,7 +55,7 @@ Getting rich is obviously the main goal here but I feel it is the fruit you get 
 
 One has to read annual report, con-calls, article, interviews of management, etc. for past 5-10 years to get this information which I just mentioned.
 
-I would also recommend to read one of my previous essays where I shared some insights on the mindset required.
+I would also recommend to read one of my [previous essays](http://arjunbadola.blog/The-Mindset-Stock-or-Business/) where I shared some insights on the mindset required.
 
 Now if you are here just for money then it would be very difficult for you to keep grinding in the process.
 
@@ -63,7 +63,7 @@ Plus, even after doing your thorough analysis still there is no guarantee you wo
 
 You will have your own set of failures.
 
-### Mental Pressure
+## Mental Pressure
 
 Now getting information about companies requires hours/days of research and until then you experience FOMO (Fear Of Missing Out).
 
@@ -71,11 +71,11 @@ When you see other people making money then you go through a lot of pressure to 
 
 It might look easy on paper that why would one invest just because everyone is buying but in reality this is what happens.
 
-The pressure is not just from missing out its also from getting criticism.
+The pressure is not just from missing out, its also from getting criticism.
 
 Now to handle that criticism one must have a solid conviction on the company and that would happen only after putting hours of research which would lead us to back to Curiosity and Passion.
 
-### Opportunity Cost
+## Opportunity Cost
 
 At the initial stage when you would have come across something known as investing in stock market there is high probability that you might have got interested in making quick money.
 
@@ -83,7 +83,7 @@ You might also succeed in it. But you need to ask yourself is that sustainable?
 
 There is a huge opportunity cost here.
 
-As Scam 1992 (TV Show) got released many people started dreaming of entering into the stock market and getting rich.
+As [Scam 1992 (TV Show)](https://www.imdb.com/title/tt12392504/) got released many people started dreaming of entering into the stock market and getting rich.
 
 Rs100, 1000, or 10,000 absolute profit might look very fascinating for beginners but don’t forget the reality behind it.
 
@@ -109,7 +109,7 @@ I am not saying don’t try things and just sit within your limits, that would b
 
 I just want people to know the other side of the argument too (which is probably the reality).
 
-### My Experience?
+## My Experience?
 
 I will be very honest with you.
 
@@ -119,9 +119,9 @@ Suddenly so many companies were available at very attractive valuations.
 
 When this happens, nobody needs curiosity/passion, one would automatically start analyzing companies as the opportunity is sitting right in front of you.
 
-So, I had invested in CCL Products (India) Ltd.
+So, I had invested in [CCL Products (India) Ltd](http://arjunbadola.blog/ccl-products-india-ltd-analysis-the-moat-business-you-might-be-looking-for/).
 
-It was my biggest position and I had huge conviction in it but soon I realized that I had made an error in my analysis and my original thesis is no longer valid, I sold my position.
+It was my biggest position and I had huge conviction in it but soon I realized that I had made an error in my analysis and my original thesis is no longer valid, [I sold my position](https://arjunbadola.blog/Why-I-Sold-CCL-Products-(India)-Ltd/).
 
 Now, after selling that company my motivation too went down.
 
