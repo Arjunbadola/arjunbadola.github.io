@@ -1,4 +1,4 @@
-Zerodha few months back brought in a new feature which allows you to gift shares to your loved ones. The idea seems good but lacks practically.
+Zerodha few months back brought in a new feature which allows you to gift shares to your loved ones. The idea seems good but lacks practicality.
 
 First, gifting few shares of a single company is dangerous as you assume that you know for certain it would go up whereas on the other hand you hold more than one stock portfolio. One would argue that “Why not gift an index fund?”, that could be a better option but don’t forget the main reason why indexing works: DOLLAR COST AVERAGING!
 
