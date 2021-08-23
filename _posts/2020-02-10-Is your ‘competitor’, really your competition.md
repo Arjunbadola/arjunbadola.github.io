@@ -12,4 +12,4 @@ You need to be so unique and different that even if all your notes/secrets are e
 
 I would like to end this short post with a quote from Chinese philosopher and also the founder of Taoism : –
 
-“Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny.” - Lao Tzu
+> Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny. - Lao Tzu
