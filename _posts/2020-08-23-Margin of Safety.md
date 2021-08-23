@@ -61,7 +61,7 @@ Here it starts from 09:33 - [link](https://youtu.be/7CPtrF0ntd4?t=573)
 
 So, I hope the idea of quality of a business acting as margin of safety is clear.
 
-Here Is What I Do
+## Here Is What I Do
 
 I try to implement margin of safety into three ways similar to Prof. Sanjay Bakshi:
 
