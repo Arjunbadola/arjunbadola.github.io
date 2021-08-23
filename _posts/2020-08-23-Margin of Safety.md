@@ -27,7 +27,7 @@ Here is a tweet from Ian Cassel which answers that for you:
 
 ![Ian Cassel](/assets/ian.png)
 
-**Widening Of The Concept**
+## Widening Of The Concept
 
 The world is changing very fast these days. As the technology keeps on getting better day by day.
 
@@ -41,7 +41,7 @@ That’s when the quality of the business plays a huge role and stands there as 
 
 This is not something which I have come up with many investors like Prof. Sanjay Bakshi and Vishal Khandewal do use such safety.
 
-**Margin of Safety as per Prof. Sanjay Bakshi**
+## Margin of Safety as per Prof. Sanjay Bakshi
 
 For example in article My [Email Exchange with Prof. Sanjay Bakshi on Valuations](https://www.safalniveshak.com/email-exchange-with-sanjay-bakshi-on-valuations/), Prof. Sanjay Bakshi mentions that his valuation method is divided into three stages and each stage provides him with a margin of safety,
 
@@ -51,7 +51,7 @@ For example in article My [Email Exchange with Prof. Sanjay Bakshi on Valuations
 
 All these three steps acts as a margin of safety for Prof. Sanjay Bakshi.
 
-**Margin of as per Vishal Khandewal**
+## Margin of as per Vishal Khandewal
 
 Here are two videos where he talks his view on the concept…
 
