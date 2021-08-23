@@ -3,7 +3,7 @@ published: true
 ---
 Here is a short article on some takeaways from the book I just read ‘The Science Of Hitting’ by Ted Williams & John Underwood.
 
-Three Golden Rules To Hit
+## Three Golden Rules To Hit
 
 Here are the following three golden rules which Ted William followed in his entire baseball career.
 
@@ -13,7 +13,7 @@ Here are the following three golden rules which Ted William followed in his enti
 
 Now lets see how these rules apply to investing….
 
-First rule
+## First rule
 
 This rule requires discipline.
 
@@ -29,7 +29,7 @@ Before ending this first rule I would like to quote Warren Buffett here:
 
 The stock market is a no-called-strike game. You don’t have to swing at everything–you can wait for your pitch. The problem when you are a money manager is that your fans keep yelling, ‘Swing, you bum!’- Warren Buffett
 
-Second Rule
+## Second Rule
 
 The author says 50% of the hitting is dependent on ‘proper thinking’. It is just not studying the pitcher or the situation of the game but to also ‘anticipate’. In baseball when the hitter is about to get its pitch, there are always some voices from the audience ‘guessing’ the pitch. They shout, ‘don’t do it!’.
 
@@ -42,7 +42,8 @@ People generally lack the ability to stand against the crowd. They always want s
 I believe wealth is built through holding stocks for a very long time. To do so you must have a very strong thesis about your investment decision otherwise people will confuse you so much that you might end up doing what everybody wants you to do.
 
 Further, to have such a strong conviction you must learn to stand against the crowd. It won’t be easy my friend, but surely it will be worth it.
-Third rule
+
+## Third rule
 
 The third rule deals with not timing the market.
 
