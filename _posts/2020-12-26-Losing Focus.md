@@ -43,7 +43,7 @@ If you are still crazy about getting that fame then at least hire someone to do 
 
 Your time is extremely important, don’t waste it in doing trivial things.
 
-I am happy that I realized it pretty quick that for me, personally, the goal is to become a better investor and not a marketer.
+I am happy that I realized it pretty quick for me. The goal is to become a better investor and not a marketer.
 
 So, I shouldn’t be spending even a second on sending out newsletters just to attract people for signing for my email list.
 
