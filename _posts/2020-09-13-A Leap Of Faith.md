@@ -16,7 +16,8 @@ While he was learning all this there was no hope that any of these things would 
 He just followed his intuition. Luckily for him, it all came back.
 
 He applied his knowledge of calligraphy in forming the beautiful typography which the first Macintosh computer came with (We all know what happened after that).
-In Investing
+
+## In Investing
 
 I had asked a question to one of the well-known investors of India, Basant Maheshwari.
 
@@ -43,7 +44,8 @@ Faith does not mean putting your money and saying “I HAVE FAITH THAT THIS COMP
 You know when you have been investing only for few months and borrowed conviction of others it is not the faith which is acting.
 
 Faith would build after you have put in the efforts for quite a long time.
-Another Vantage Point
+
+## Another Vantage Point
 
 There is another perspective for Faith, which is similar to the above.
 
@@ -54,7 +56,8 @@ For example, Warren Buffett has been sitting on $137 billion in cash for a long 
 He has faith in his style of investing and waits for the right opportunity to tune in.
 
 Again, he has taken a leap of faith based on his style of investing after testing it out with years of practice, which helped him build such conviction on his strategy.
-Inshort
+
+## Inshort
 
 You need to be little rational and be aware that if you have built up a conviction, whether is it due to some edge you have or just for the sake of it.
 
