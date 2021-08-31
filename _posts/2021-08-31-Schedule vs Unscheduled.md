@@ -20,7 +20,7 @@ It was a great exercise as I had just started writing online and many times it i
 
 I did this for a year and then stopped, as I started to realize that the quality of my articles was going down.
 
-Forcing yourself to write will make you write unnecessary content which you yourself don't want to read and the first rule of making any type of content is that it should be what you would like to consume yourself.
+Forcing yourself to write will make you write unnecessary content which you yourself don't want to read, and the first rule of making any type of content is that it should be what you would like to consume yourself.
 
 Make something which would help you if you were on the other side of the content consuming it. Add your thoughts, experiences, what you have read, etc. and make that content useful for your readers.
 
