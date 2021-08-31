@@ -26,13 +26,13 @@ Writing not for money has its huge benefits like:
 
 So, sit back and think about this carefully.
 
-**How do I start writing online?**
+# How do I start writing online?
 
 After you have decided your purpose for writing, I would suggest to start with spending some money like buying Domain name, etc. as this would act as an external motivation for you to write. (This is what I did)
 
 Once you inculcate the habit of writing then you can switch to a free platform (if your goal is not to earn money from your blog).
 
-**What to write about?**
+# What to write about?
 
 Share your journey as you keep learning. Don't be afraid to be wrong. Just be honest while writing and accept the mistakes you make during your journey.
 
