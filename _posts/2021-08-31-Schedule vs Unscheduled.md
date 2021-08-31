@@ -1,4 +1,6 @@
-I came across [this mini-essay](https://twitter.com/david_perell/status/1432432425901113347) today morning by David Perell and it covers the message very well but I wanted to add a few thoughts of mine.
+I came across [this mini-essay](https://twitter.com/david_perell/status/1432432425901113347) today morning by David Perell and it covers the message very well but I wanted to add a few thoughts of mine. (Read the mini-essay first to get the context)
+
+![Davidessay](/assets/Davidessay.PNG)
 
 # On Working Out
 
