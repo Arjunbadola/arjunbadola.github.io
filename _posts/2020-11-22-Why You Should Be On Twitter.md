@@ -4,7 +4,7 @@ published: true
 
 In my earlier post I had written about how social media has become the modern struggle most importantly for my generation. Today I will be writing about how Twitter is an exception and why you should be on Twitter.
 
-**Creating your own newspaper**
+# Creating your own newspaper
 
 In one of the Prof. Sanjay Bakshi’s tweet he mentioned about how one can create a personalized newspaper for themselves using screener website.
 
@@ -24,7 +24,7 @@ Consider your twitter feed as your temple of knowledge which needs to be maintai
 
 Therefore, Twitter feed is a nice way to control what thoughts you want your mind to process.
 
-**Opportunities**
+# Opportunities
 
 These days we make portfolio websites which consists of sharing information about our skills or make a personal brand.
 
@@ -36,7 +36,7 @@ Most of the time people who are quite well known in your industry are there on T
 
 Plus they welcome people to share content and look forward for fruitful interactions.
 
-**Online Journal**
+# Online Journal
 
 > There are gaps in one’s thinking because you are being kind to yourself. When you deicide to write it down you have to fill those gaps.- Naval Ravikant
 
@@ -54,7 +54,7 @@ Sometimes such things lead to knowing things which you don’t know that you don
 
 This could also apply to disclosing your your portfolio but that is not for everyone if you think you could handle the pressure then its cool, because there is constant questioning which makes it difficult to hold your stocks for long term.
 
-**Inshort**
+# Inshort
 
 Make a personalized feed for yourself, don’t hesitate to block/unfollow, and constantly share your content for creating a feedback loop.
 
