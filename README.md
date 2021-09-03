@@ -4,7 +4,7 @@ permalink: /about/
 layout: page
 published: true
 ---
-Hello everyone! I am Arjun Badola, a law student with an interest in analyzing businesses.
+Hi! I am Arjun Badola, a law student with an interest in analyzing businesses.
 
 My investing style has evolved from being a pure Benjamin Graham style investor towards Moat investor to now having a business analyst mindset while also catering thoughts towards how the market perceives the company.
 
@@ -18,7 +18,7 @@ People from whom I keep learning:
 
 2. Charlie Munger: After reading about him I developed my diversification framework, which is having multi-disciplinary approach (Mental Models) towards investing but opposite in terms of portfolio by having a concentrated portfolio.
 
-3. Prof. Sanjay Bakshi: He is also heavily influenced by the above two mentioned but I liked his valuation method which includes three stages of margin of safety. Further, his multidisciplinary approach is one thing which I admire.
+3. Prof. Sanjay Bakshi: He is also heavily influenced by the above two mentioned but I like his multidisciplinary approach which is specific to Indian markets. He needs no introduction, you just need to read [his blog](https://fundooprofessor.wordpress.com/) and you will understand why I admire him. Plus, I also got a chance to talk to him over zoom call and had a great discussion over one of my articles he liked, which was like dream come true! 
 
 4. Bharat Shah: After reading his book I realized how important it is to look for growth in companies. Here is a qoute by him which would summarize this concept: "When growth goes away, equities reduce to a bond. It will be treated like a bond for a while. If the picture deteriorates further, then it will be treated worse than a bond."
 
