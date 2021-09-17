@@ -7,7 +7,7 @@ This approach is also known as Cigar-butt approach. In which you look for very c
 
 So, basically it means that you buy ‘very cheap’ valued businesses and sell it when they become ‘cheap’ or ‘fairly’ valued.
 
-### Problems With The Approach
+## Problems With The Approach
 
 Firstly, I realized that your upside, i.e. profit, was limited because you cannot expect a gruesome business to perform like a great business.
 
@@ -21,13 +21,13 @@ Buying something just because it is cheap and not giving importance to the busin
 
 Soon I realized that long back Warren Buffett had switched from this approach and no longer followed it!
 
-### Present Philosophy
+## Present Philosophy
 
 I felt like an idiot, as I invested my money believing that Warren Buffett follows Cigar-Butt approach.
 
 But I guess investing is not that easy. If it would have been that easy to just put some numbers on the screen and buy a basket of those stocks then everyone would have done it.
 
-Here is a video explaining why Warren Buffett left Cigar Butt approach:
+Here is a [video](https://youtu.be/XRNh7_ACAxk) explaining why Warren Buffett left Cigar Butt approach.
 
 So, what does he follow now?
 
@@ -48,7 +48,7 @@ They try to get into the market and try to find bargain anywhere and everywhere 
 
 So, what happens then?
 
-In one of my previous articles I have talked about this a little, [‘circle of competence’](http://arjunbadola.blog/The-Science-Of-Investing/). But Vishal Khandewal of SafalNiveshak explains very well that when does a company fall under your circle of competence.
+In one of my previous articles I have talked about this a little, [‘circle of competence’](http://arjunbadola.blog/The-Science-Of-Investing/). But [Vishal Khandewal](https://www.safalniveshak.com/value-investing-course-creating-circle-of-competence/) of SafalNiveshak explains very well that when does a company fall under your circle of competence.
 
 A business will be ‘within’ your circle of competence if you fully understand the underlying economics of it:
 
