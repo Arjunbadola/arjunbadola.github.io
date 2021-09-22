@@ -94,5 +94,5 @@ Rather, having a 2-3 years view where you see the earnings to double or grow at 
 
 If you are a new investor in the market, please don't read Warren Buffett quotes without understanding the context behind it and blindly apply them. It might have worked so far if you entered in 2020 but when the bull stops running you would be the first one to hit the wall.
 
-If you want to learn from Warren Buffett, read about his three different phases of investing journey and adapt the one which is more relevant to you based on your size of capital and behavior. Rather than reading quotes on Twitter and replicating his style.
+If you want to learn from Warren Buffett, read about his [three different phases](https://twitter.com/soicfinance/status/1418069452097155073) of investing journey and adapt the one which is more relevant to you based on your size of capital and behavior. Rather than reading quotes on Twitter and replicating his style.
 
