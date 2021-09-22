@@ -54,7 +54,7 @@ Here is a company called La Opala
 
 ![laopala](/assets/laopala.png)
 
-If you see the stock hasn’t moved anywhere since 2015 rather, has gone down in between.
+If you see the stock hasn’t moved anywhere since 2015, rather has gone down in between.
 
 The reason being the growth from the business went away. From being a business with 20-30% growth it went to below 10% growth and even witnessed degrowth sometimes.
 
@@ -84,7 +84,7 @@ Here is a good image which summaries the growth trigger to look for:
 
 ![triggers](/assets/triggers.png)
 
-Source: Abhishek Basumallick talk at IIC: "My Investment Journey, Philosophy & Lessons" (notes)
+Source: Abhishek Basumallick talk at IIC: "My Investment Journey, Philosophy & Lessons" ([notes](https://twitter.com/badola_arjun/status/1431856959662145536))
 
 Another thing which I learnt is that investing for the long term is very difficult and one should not just enter a stock claiming that they would hold it for 10 years. Nobody knows what would happen between that period.
 
