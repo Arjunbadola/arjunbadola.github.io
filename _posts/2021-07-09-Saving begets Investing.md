@@ -16,6 +16,7 @@ Whenever someone who is new to the stock market asks me for book recommendations
 11. [The Little Book That Builds Wealth](https://www.amazon.in/gp/product/047022651X/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=047022651X&linkCode=as2&tag=arjunbadola-21&linkId=000479d6578082915c8b1251f409d23c) by Pat Dorsey
 12. [Poor Charlie’s Almanack: The Wit and Wisdom of Charles T. Munger](https://www.amazon.in/gp/product/1578645018/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1578645018&linkCode=as2&tag=arjunbadola-21&linkId=05c06b4db3305339cd2a017330d5beae) by Charles T.Munger, Peter E. Kaufman (Editor)
 13. Of Long-term Value & Wealth Creation by Bharat Shah
+14. [Expectations Investing: Reading Stock Prices for Better Returns](https://www.amazon.in/gp/product/B01J0FP7JE/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01J0FP7JE&linkCode=as2&tag=arjunbadola-21&linkId=bb57a018f9cdc447374611cb32c92335) by Michael J. Mauboussin
 
 The order matters only for the first four after that one can go as they will. But why do I mention following this specific order? Because they help in building a mindset which is crucial for one's investing journey.
 
