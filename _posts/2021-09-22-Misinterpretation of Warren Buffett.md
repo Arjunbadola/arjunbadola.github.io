@@ -1,3 +1,5 @@
+_For short summary click here: [link](https://twitter.com/badola_arjun/status/1444700938103447552)_
+
 Warren Buffett is the guru of all investors and has shared his wisdom publicly which benefited many people. Most people start investing after reading about his story from which they get motivated  and enter the realm of value investing. The problem starts when we blindly copy and misinterpret his statement which he shares publicly.
 
 Warren Buffett quotes on investing have become quite dangerous. If one does not understand them with context, these quotes could act as a double edged sword for new investors entering the market.
