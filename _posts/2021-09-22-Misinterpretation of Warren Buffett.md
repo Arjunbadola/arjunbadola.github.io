@@ -70,7 +70,7 @@ Now in both of the above examples if you were a new investor entering the market
 
 Sanjoy Bhattacharya once gave a [talk](https://youtu.be/8DDMu9hMzw0) at CFA society and spoke about this same problem.
 
-He adds that people try to replicate Warren Buffett and say, "mai Moat khoj raha hu sir" (English Translation: I am looking for moat sir) and "Brand sir, Pricing power aata hai" (English Translation: Brand sir, it give you pricing power).
+He adds that people try to replicate Warren Buffett and say, "mai Moat khoj raha hu sir" (English Translation: I am looking for moat sir) and "Brand sir, Pricing power aata hai" (English Translation: Brand sir, it gives you pricing power).
 
 He further adds that we are not Warren Buffett, we don't have his intellect, and neither we have his temperament to buy, but we all want to be Warren Buffett.
 
