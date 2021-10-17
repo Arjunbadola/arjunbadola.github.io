@@ -10,5 +10,3 @@ Through this blog we try to answer:
 [Blog Link](https://soic.in/blog-description/vsttrillers)
 
 Hope you find value in this new sector coverage. :)
-
-[![VSTT](/assets/VSTT.png)](https://soic.in/blog-description/vsttrillers)
