@@ -8,7 +8,7 @@ One has to understand the concept of opportunity cost very carefully.
 
 Time is a limited resource and there are only a certain number of hours you have in a day left with you to explore things deeply. At that moment you make a choice to whether you should dive further deep into your existing field or expand vertically.
 
-The more time you spend on unrelated things the more you are taking away time from your specific field. Every day you wake you would have 24 tokens and you have to decide in which box you want to put these tokens in. Once you use it, it cannot be retrieved.
+The more time you spend on unrelated things the more you are taking away time from your specific field. Every day when you wake up you have 24 tokens and you have to decide in which box you want to put these tokens in. Once you use it, it cannot be retrieved.
 
 Every decision comes with serendipity lost in another field.
 
@@ -16,7 +16,7 @@ Let's take my example. I have mainly two fields in my life: Law and Investing.
 
 ![box1](/assets/box1.jpeg)
 
-Now each time I take out a court case to read related to my subject in law I am letting go the opportunity to understand a new industry in the field of investing and everytime I pick an annual report to read, I forgo my opportunity to learn something in field of law.
+Now each time I take out a court case to read related to my subject in law I am letting go the opportunity to understand a new industry in the field of investing, and everytime I pick an annual report to read I forgo my opportunity to learn something in field of law.
 
 But now if I add another box like coding I would be in a deep dilemma everyday.
 
@@ -36,7 +36,7 @@ If you were bored and wanted to join the momentum race and bought the stock in t
 
 The urge to do more is a double edged sword. If you kill the curiosity and don't try out new things then you are letting go the possibility of serendipity because we don't know what we don't know and the dots could connect to some unrelated field and help you gain in your preferred field of interest. Like the famous example of Steve jobs taking calligraphy class in his college led to personal computers having wonderful typography today.
 
-But it could also be true that the probability of such events happening is quite low and the more you let go the opportunity in the preferred field or required field (by required I mean a skill necessary to lean so that you can learn a living: A college degree) the chances of you getting better in that area keeping going down.
+But it could also be true that the probability of such events happening is quite low and the more you let go the opportunity in the preferred field or required field (by required I mean a skill necessary to learn so that you can earn a living: A college degree) the chances of you getting better in that area keeping going down.
 
 # Inshort
 
