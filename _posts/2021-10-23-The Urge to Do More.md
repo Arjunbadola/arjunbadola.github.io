@@ -1,3 +1,5 @@
+_For short summary:_ [_link_](https://twitter.com/badola_arjun/status/1451792554312159234)
+
 We have always heard that curiosity is a good thing to have, as it leads to deeper understanding and discoveries. But I believe it is also a necessary evil in one's life when it extends to areas which can never be your focus field.
 
 For example: Curiosity to learn how to code might sound good and could help someone in their life but to reach a level where you can start earning from that skill has very less probability.
