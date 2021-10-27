@@ -1,3 +1,5 @@
+For short summary: [_link_](https://twitter.com/badola_arjun/status/1453256656503066626)
+
 Here is how Wikipedia defines authority bias: "Authority bias is the tendency to attribute greater accuracy to the opinion of an authority figure (unrelated to its content) and be more influenced by that opinion."
 
 # In Reading
@@ -12,7 +14,7 @@ This is because his essays are so intriguing that I need some authority to valid
 
 In reading, there has to be some authority for people to start reading deeper into the article. But writers can counter this by writing well. If the content which you are doing is on an issue which most people want to know about and when they first time read your work they notice your style of writing to be good, then one can create authority bias for themselves in the minds of their audience.
 
-In Investing
+# In Investing
 
 Authority bias is a huge problem in the investing world. Especially in a bull run, the stock would start running up quickly and if a person you value recommends it, you would first buy the stock and later get into the research part (which is indirectly looking for validating statements).
 
