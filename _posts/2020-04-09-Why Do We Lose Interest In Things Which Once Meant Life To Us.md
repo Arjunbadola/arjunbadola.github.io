@@ -14,7 +14,7 @@ Everyday my mind used to be occupied with thinking about how I could improve my 
 
 As soon as my final exams were over I got into the habit of reading books, especially self-help. I used to spend my days inside my room reading self-help books.
 
-The first book which I grabbed was was The Monk Who Sold His Ferrari by Robin Sharma, which I still like enjoy reading again. I feel that self-helps books are good to read but only to a certain limit.
+The first book which I grabbed was was _The Monk Who Sold His Ferrari_ by Robin Sharma. I feel that self-helps books are good to read but only to a certain limit.
 
 After reading 2-3 self-help books you start realizing that its all same in all the books. Even if self-help books are good, I think its only a few pages which are worth your time and carry the main argument of the book, rest is just filling up of pages.
 
@@ -22,7 +22,9 @@ I got so engrossed in reading self-help that I forgot the most important part th
 
 I started getting a sense of accomplishment by reading such books that I never actually reached the execution part as I was feeling good whenever I used to add a book into my ‘Books I Have Read’ list.
 
-But thankfully this changed. I was talking to my cousin once over phone and I was telling him how I finished reading so many books in a month. Then he asked me about my plan of action. I replied that I have ordered another self-help book. This conversation made me realize that I was stuck in a bubble. I was wasting my time gaining multiple opinions from these books while never working on myself.
+But thankfully this changed. 
+
+One fine day, when I was talking to my cousin over phone and I was telling him how I finished reading so many books in a month, he asked me about my plan of action. I replied that I had ordered another self-help book. This conversation made me realize that I was stuck in a bubble. I was wasting my time gaining multiple opinions from these books while never working on myself.
 
 ## Stage 3: College – Freshman Year
 
