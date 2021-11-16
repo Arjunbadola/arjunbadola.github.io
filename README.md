@@ -24,6 +24,6 @@ People from whom I keep learning:
 
 5. Ishmohit Arora: He is the founder of SOIC. By writing reports for them I have learnt that if your business analysis is strong, one would automatically understand the valuation part. Valuation must always come after getting the business analysis right.
 
-Also my field of interest in law disciplinary are Company Law, Contracts Law, and Securities Law.
+Also my field of interest in law disciplinary are Company Law, Contracts Law, and Intellectual Property Rights.
 
 If you're not sure which to read, try [Revisited: a new perspective on startups](http://arjunbadola.blog/Revisited-A-New-Perspective-on-Startups/), [The mindset: stock or business](http://arjunbadola.blog/The-Mindset-Stock-or-Business/), [How to generate stock ideas](http://arjunbadola.blog/How-to-Generate-Stock-Ideas/), or [It's difficult](http://arjunbadola.blog/It's-Difficult/).
