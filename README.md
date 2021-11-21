@@ -14,7 +14,7 @@ People from whom I keep learning:
 
 1. From Warren Buffett: I learnt how to think about companies, stay in the game for long-term, and choose quality business- even if you need to pay a little more for them.
 2. From Charlie Munger: I learnt about the importance of multi-disciplinary approach and use of mental models in investing.
-3. From Prof. Sanjay Bakshi: His talks and writing (via his [blog](https://fundooprofessor.wordpress.com/)) has taught me the application of application of Buffett-Munger approach in India. Plus, I also got a chance to talk to him over zoom call and had a great discussion over one of my articles he liked, which was like dream come true!
-4. Ishmohit Arora: He is the founder of SOIC and like a mentor to me. By writing articles for them I have learnt that if your business analysis is strong, one would automatically understand the valuation part. Valuation must always come after getting the business analysis right.
+3. From Prof. Sanjay Bakshi: His talks and writing (via his [blog](https://fundooprofessor.wordpress.com/)) has taught me the application of Buffett-Munger approach in Indian context. Plus, I also got a chance to talk to him over zoom call and had a great discussion over one of my articles he liked, which was like dream come true!
+4. From Ishmohit Arora: He is the founder of SOIC and my mentor. By writing articles for them I have learnt that if your business analysis is strong, one would automatically understand the valuation part. Valuation must always come after getting the business analysis right.
 
 If you're not sure which to read, try [Revisited: a new perspective on startups](http://arjunbadola.blog/Revisited-A-New-Perspective-on-Startups/), [The mindset: stock or business](http://arjunbadola.blog/The-Mindset-Stock-or-Business/), [How to generate stock ideas](http://arjunbadola.blog/How-to-Generate-Stock-Ideas/), or [It's difficult](http://arjunbadola.blog/It's-Difficult/).
