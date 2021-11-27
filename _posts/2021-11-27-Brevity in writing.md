@@ -1,3 +1,5 @@
+One page summary: [link](https://twitter.com/badola_arjun/status/1464532229590175745)
+
 Brevity in writing should always be appreciated.
 
 From our schools and colleges we have been taught to write in words limits which are making us write more words than required (by setting a high minimum word count). It has happened in my law school exams where I could cover the answer in less than 400 words by precise use of words but I had to increase the word count to match the required world limit. I understand that setting a word limit in exams is a means to avoid conflict later from clever students who might not know the answer and write a few lines without actually covering the topic and later argue that there was no world limit mentioned, but the cost of that is paid by everyone.
