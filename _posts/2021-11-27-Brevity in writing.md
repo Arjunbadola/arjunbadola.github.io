@@ -2,7 +2,9 @@ One page summary: [link](https://twitter.com/badola_arjun/status/146453222959017
 
 Brevity in writing should always be appreciated.
 
-From our schools and colleges we have been taught to write in words limits which are making us write more words than required (by setting a high minimum word count). It has happened in my law school exams where I could cover the answer in less than 400 words by precise use of words but I had to increase the word count to match the required world limit. I understand that setting a word limit in exams is a means to avoid conflict later from clever students who might not know the answer and write a few lines without actually covering the topic and later argue that there was no world limit mentioned, but the cost of that is paid by everyone.
+From our schools and colleges we have been taught to write in word limits which are making us write more words than required (by setting a high minimum word count). 
+
+It has happened in my law school exams where I could cover the answer in less than 400 words by precise use of words but I had to increase the word count to match the required world limit. I understand that setting a word limit in exams is a means to avoid conflict later from clever students who might not know the answer and write a few lines without actually covering the topic and later argue that there was no world limit mentioned, but the cost of that is paid by everyone.
 
 The concept of writing long answers has been taught to us a lot. Long ago, lawyers were paid on a per-word basis which ultimately led to use of unnecessary words while drafting any work and such methodology is still engraved in law schools.
 
@@ -22,7 +24,9 @@ Here is one example from one of my essays: [“Why Signal over WhatsApp”](http
 
 I really like how I framed this essay. I start directly with the points which one would want to know when they read the title of the essay. I lay down four arguments in favor of Signal and then counter argue them with the most common counter arguments one gets as they read the arguments mentioned.
 
-I feel this is one of the best frameworks to write an essay in. Directly starting with the point of the essay and clearing out the counter thoughts would make the reader understand better and feel satisfied. If you are afraid of writing in paragraphs, use bullet points! Just make sure to hit the main point at the start itself. Like I did in [this essay](http://arjunbadola.blog/Social-Media-The-Modern-Struggle/) where I just lay down 8 pointers on why social media is the modern struggle.
+I feel this is one of the best frameworks to write an essay in. 
+
+Directly starting with the point of the essay and clearing out the counter thoughts would make the reader understand better and feel satisfied. If you are afraid of writing in paragraphs, use bullet points! Just make sure to hit the main point at the start itself. Like I did in [this essay](http://arjunbadola.blog/Social-Media-The-Modern-Struggle/) where I just lay down 8 pointers on why social media is the modern struggle.
 
 # Inshort 
 
