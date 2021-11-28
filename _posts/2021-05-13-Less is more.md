@@ -36,7 +36,7 @@ WordPress(.org) is quite a good platform if someone wants to make a website for 
 
 I had got indulged into blogging so much and I had started neglecting other aspects of my life.
 
-My focus has shifted from investing and my college studies towards bringing in more audience on my blog!
+My focus had shifted from investing and my college studies towards bringing in more audience on my blog!
 
 I have expressed this feeling in one of my previous essays, ["Losing Focus"](https://arjunbadola.blog/Losing-Focus/).
 
