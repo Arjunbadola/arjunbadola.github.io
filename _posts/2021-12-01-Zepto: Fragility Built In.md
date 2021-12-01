@@ -1,6 +1,6 @@
 _For twitter thread: [link](https://twitter.com/badola_arjun/status/1466072253259419649)_
 
-Startup culture crazy has been going on for a few years all over the world now. Especially among college students who believe that quitting the job and building a random business is COOL. My observation is that many of them are just interested in raising money from private equity and come into the limelight.
+Startup culture craze has been going on for a few years all over the world now. Especially among college students who believe that quitting the job and building a random business is COOL. My observation is that many of them are just interested in raising money from private equity and come into the limelight.
 
 The problem with this Startup culture is that it creates a delusion in the eyes of the young generation (college students like me). Students just want to get the feel of this startup culture and want to write "CEO/Founder" on their Instagram bio.
 
@@ -54,10 +54,10 @@ Finally the interview also provides an insight from a person who works at a inve
 
 ![zepto6](/assets/zepto6.png)
 
-Even the Private Equity people know that it doesn't look sustainable but these guys are ready to 0.000001% of their worth, which could be a smart bet.
+Even the Private Equity people know that it doesn't look sustainable but these guys are ready to put in 0.000001% of their worth, which could be a smart bet.
 
 # Inshort
 
 Sustainability should be a priority rather than just raising private equity money and giving out interviews. The success rate of startups is extremely low and students should not get attracted to starting a startup just to raise private equity and give out interviews. Entrepreneurship is not that easy as the media portraits it to be. Most businesses don't survive.
 
-Disclaimer: I don't not hold any grudge against any person/company mentioned in the post. This was written for educational purposes.
+Disclaimer: I do not hold any grudge against any person/company mentioned in the post. This was written for educational purposes.
