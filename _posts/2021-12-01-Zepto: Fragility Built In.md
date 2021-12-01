@@ -1,3 +1,5 @@
+_For twitter thread: [link](https://twitter.com/badola_arjun/status/1466072253259419649)_
+
 Startup culture crazy has been going on for a few years all over the world now. Especially among college students who believe that quitting the job and building a random business is COOL. My observation is that many of them are just interested in raising money from private equity and come into the limelight.
 
 The problem with this Startup culture is that it creates a delusion in the eyes of the young generation (college students like me). Students just want to get the feel of this startup culture and want to write "CEO/Founder" on their Instagram bio.
