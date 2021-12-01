@@ -8,7 +8,7 @@ But reality is far away.
 
 Raising equity is not the end, rather it's the start of your hectic lifestyle where the vultures (Private Equity Funds) would force you to grow aggressively and kick the thoughts about profitability outside the window.
 
-Today I came across this news article titled: _"Meet the 19-year old Stanford dropouts building Zepto and delivering groceries in 10 minutes"_ and thought of sharing my personal views. [Link](https://www.moneycontrol.com/news/business/startup/meet-the-19-year-old-stanford-dropouts-building-zepto-and-delivering-groceries-in-10-minutes-7771601.html)
+Today I came across this news article titled: _["Meet the 19-year old Stanford dropouts building Zepto and delivering groceries in 10 minutes"](https://www.moneycontrol.com/news/business/startup/meet-the-19-year-old-stanford-dropouts-building-zepto-and-delivering-groceries-in-10-minutes-7771601.html)_ and thought of sharing my personal views.
 
 Note: The following is going to be a critique of Zepto's business model via use of Moneycontrol's article under fair dealing provision of the Copyright Act, 1957 section 52(1)(a)(ii) which allows use of material for criticism.
 
