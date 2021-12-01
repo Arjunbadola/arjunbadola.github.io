@@ -98,4 +98,4 @@ If you are a new investor in the market, please don't read Warren Buffett quotes
 
 If you want to learn from Warren Buffett, read about his [three different phases](https://twitter.com/soicfinance/status/1418069452097155073) of investing journey and adapt the one which is more relevant to you based on your size of capital and behavior. Rather than reading quotes on Twitter and replicating his style.
 
-Update 01 December 21: Found this uselful resource which highlights the point of this post: [link](https://www.forbesindia.com/column/column/the-art-of-selling-stocks/27282/1)
+Update on 01 December 21: Found this uselful resource which highlights the point of this post: [link](https://www.forbesindia.com/column/column/the-art-of-selling-stocks/27282/1)
