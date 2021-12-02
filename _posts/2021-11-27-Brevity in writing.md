@@ -28,4 +28,4 @@ Directly starting with the point of the essay and clearing out the counter thoug
 
 Brevity should always be preferred over long forms which might be unnecessary. But be careful, some topics do require one to explain in detail and with multiple examples. Don't end up setting brevity as your goal at the cost of clarity of the topic.
 
-Thanks to [Heddwen Newton](https://heddwennewton.com/) for reading draft of this.
+Thanks to [Heddwen Newton](https://heddwennewton.com/) and [Joe Ray](https://twitter.com/joeray119) for reading draft of this.
