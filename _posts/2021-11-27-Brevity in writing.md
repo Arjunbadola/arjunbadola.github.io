@@ -10,8 +10,6 @@ The concept of writing long answers has been taught to us a lot. Long ago, lawye
 
 I remember in my 3rd or 4th grade class I had to write an essay on cows in India. I always used to run out of words, which led me to writing a lot of unnecessary words. But it can be argued that at such an early age one should force themselves to write more and later focus on brevity.
 
-Prima Facie it looks easy to say that one just has to write 400 words for an essay/answer but writing a short answer is more difficult than blabbering about a topic in 2000 words.
-
 For example this famous quote from Mark Twain who once said, _“I didn't have time to write you a short letter, so I wrote you a long one.”_, explains the situation perfectly. It is harder to write a shorter form essay, as one requires deep thinking for the elimination process of what is important and covers the essence of the topic without use of unnecessary terms.
 
 In today's world brevity is highly appreciated. People have less attention span to read long form essays and less time to spare from their busy lifestyle. Now if you come up with a 2000 word essay which could have been done away in 500 words then that's a crime. Wasting your readers' time is a crime which many writers commit, including me.
