@@ -1,3 +1,5 @@
+_Link to Twitter thread: [link](https://twitter.com/badola_arjun/status/1468854060669288451)_
+
 Initially when I started out I used to ignore what anybody would have to say about their style of valuing a business and I would blindly copy what Benjamin Graham’s book, The Intelligent Investor had to say. Later came a stage where I realized Benjamin style was not working for me and I was doing something wrong.
 
 Before we get into the learning, here is the background to it:
