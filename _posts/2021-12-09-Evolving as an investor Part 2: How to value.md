@@ -53,7 +53,7 @@ The stock was already 10-11x from its March 2020 lows and trading around 40 PE. 
 
 Ishmohit is very bullish on this company, so I asked him that the business has already gone 10x why would you buy it now? He said absolute valuation matters. New facts of the business were emerging as their Caravan sales went to zero, the hidden gem came into the limelight. That is where I got confidence to reject the chart and focus on the business and it's been a good journey so far. :) 
 
-Their music streaming was growing above 20% (rather they have increased the guidance to 25-30% now), industry tailwinds were such that as more people would buy streaming services their profit would increase multiple times, no threat from new entrant (except forgien players), Top player was losing out focus on the music business, visibility of growth for next 2-3 years etc.
+Their music streaming was growing above 20% (rather they have increased the guidance to 25-30% now), industry tailwinds were such that as more people would buy streaming services their profit would increase multiple times, no threat from new entrant (except foreign players), Top player was losing out focus on the music business, visibility of growth for next 2-3 years etc.
 
 ## **Third: Good business but can’t compromise on valuation.**
 
