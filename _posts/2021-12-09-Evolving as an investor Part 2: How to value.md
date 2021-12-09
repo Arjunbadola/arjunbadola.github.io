@@ -1,6 +1,6 @@
 _Link to Twitter thread: [link](https://twitter.com/badola_arjun/status/1468854060669288451)_
 
-Initially when I started out I used to ignore what anybody would have to say about their style of valuing a business and I would blindly copy what Benjamin Graham’s book, The Intelligent Investor had to say. Later came a stage where I realized Benjamin style was not working for me and I was doing something wrong.
+Initially when I started out I used to ignore what anybody would have to say about their style of valuing a business and I would blindly copy what Benjamin Graham’s book, The Intelligent Investor, had to say. Later came a stage where I realized Benjamin style was not working for me and I was doing something wrong.
 
 Before we get into the learning, here is the background to it:
 
@@ -8,7 +8,7 @@ If you have been following me for the past 1 year you would have noticed how my 
 
 I used to attend Bloomberg Quint’s talk on Zoom, message investors, read books, etc. to figure out: How to value? (The frustration had got to a level that I took break from investing for 3-4 weeks)
 
-I has asked [contrarianEPS](https://twitter.com/contrarianEPS) on how to value and this is what he replied:
+I had asked [contrarianEPS](https://twitter.com/contrarianEPS) on how to value and this is what he replied:
 
 [![contraEPS](/assets/contraEPS.PNG)](https://twitter.com/contrarianEPS/status/1359161432508674057)
 
@@ -22,7 +22,7 @@ One of the best days in my investing journey was on Nov 20, 2020 when this happe
 
 [![ish](/assets/ish.PNG)](https://twitter.com/ishmohit1/status/1329724485440684032)
  
-After we connected over call and discussed various businesses, especially CCL Products because we both were tracking it very carefully. Soon, he offered me to write blogs for SOIC and that is where the learning started. 
+After we connected over call and discussed various businesses, especially CCL Products because we both were tracking it very carefully. Soon, he offered me to write blogs for [SOIC](https://soic.in/) and that is where the learning started. 
 
 Coming to the learnings, mostly I try to make a bet when it fall in the falling three categories:
 
