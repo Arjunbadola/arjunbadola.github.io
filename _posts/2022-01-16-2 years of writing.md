@@ -16,7 +16,7 @@ This guy spills out whatever he thinks about the product as if he was giving out
 
 I can think of only in two situations where a person can be outright honest and brutal about their opinion:
 
-1. When the situation is a matter of fact and backed by data (not experience) to claim that something is not going to work. This situation is very rare as most of the time we never know whether something will work or not. [Prof.Sanjay Bakshi](https://twitter.com/badola_arjun/status/1330035210226950145) spoke on this topic and mentioned, citing Peter Thiel’s work, that to know whether Facebook would succeed in 2004 one would have to create thousand copies of the universe and try out each possibility, as statistics don’t work in a sample size of one.
+1. When the situation is a matter of fact and backed by data (not experience) to claim that something is not going to work. This situation is very rare as most of the time we never know whether something will work or not. [Prof.Sanjay Bakshi](https://twitter.com/badola_arjun/status/1330035210226950145) spoke on this topic and mentioned, citing Peter Thiel’s work, that to know whether Facebook would succeed in 2004, one would have to create thousand copies of the universe and try out each possibility, as statistics don’t work in a sample size of one.
 
 2. When you are the only person in this whole world who has done that thing and you know for sure that the person in front of you can’t do it. This situation is never possible as there will also be better and simpler solutions. Read the story of President McKinley who had proposed to close the patent office as he thought that "everything that could be invented has been invented".
 
@@ -40,7 +40,7 @@ Initially there was no plan to write about finance but it automatically got shif
 
 I have written 68 articles till date (including this article and the articles I write for SOIC). Some of them I feel were totally a waste of time, some decent, and some really helped people.
 
-Started with writing one post per week to now writing to share as and when I have some opinion to share. 
+Started with writing one post per week to now writing to share as and when I have something to opine upon.
 
 Writing one post per week was a good exercise at the start to keep me motivated to write. When you start any new activity (Stage 1- S1), the excitement is at its peak and you have a lot of things to share but once you are done with the initial basic learning and sharing, then the curve starts falling down. 
 
