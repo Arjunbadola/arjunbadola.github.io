@@ -5,6 +5,7 @@ layout: page
 published: true
 ---
 
+- [Thoughts on dating apps business model](https://twitter.com/badola_arjun/status/1483415922501373956)
 - [How to value?](https://twitter.com/badola_arjun/status/1468854060669288451)
 - [Zepto's business model](https://twitter.com/badola_arjun/status/1466072253259419649)
 - ["My Investment Journey, Philosophy & Lessons" by Abhishek Basumallick](https://twitter.com/badola_arjun/status/1431856959662145536)
