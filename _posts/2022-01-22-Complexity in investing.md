@@ -34,6 +34,6 @@ Gold Financing NBFCs are a place to study and get started with financial compani
 
 But do note: There is a thin line between not understanding due to your knowledge bandwidth vs your laziness of not working hard enough to understand it.
 
-It's okay to let go of a stock idea. There will be plenty of other opportunities which you are yet to discover. Don’t try to fit in an idea without understanding it because you have the urge to do something. I have made this mistake a lot of times. Buying stocks and lying to myself that I stood the business because I did not have any other idea to invest in. 
+It's okay to let go of a stock idea. There will be plenty of other opportunities which you are yet to discover. Don’t try to fit in an idea without understanding it because you have the urge to do something. I have made this mistake a lot of times. Buying stocks and lying to myself that I understood the business because I did not have any other idea to invest in. 
 
 Close twitter. Close your portfolio. Stop consuming investing content. Take a break and come back with a fresh mind, if you feel you might be doing the same thing.
