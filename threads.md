@@ -5,6 +5,7 @@ layout: page
 published: true
 ---
 
+- [Complexity in investing](https://twitter.com/badola_arjun/status/1484797524494131202)
 - [Thoughts on dating apps business model](https://twitter.com/badola_arjun/status/1483415922501373956)
 - [How to value?](https://twitter.com/badola_arjun/status/1468854060669288451)
 - [Zepto's business model](https://twitter.com/badola_arjun/status/1466072253259419649)
