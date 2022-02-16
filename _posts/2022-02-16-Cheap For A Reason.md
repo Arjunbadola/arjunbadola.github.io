@@ -8,7 +8,7 @@ Muthoot gets a higher multiple for the right reasons.
 
 Better brand, scaled the business very well, care towards customer, sticking to core segment, etc.
 
-Muthoot even being on a higher base was outperforming Manappuram. Even the growth in recent quarters which Manappuram is should be where they decided to lower their yields.
+Muthoot even being on a higher base was outperforming Manappuram. Even the growth in recent quarters which Manappuram is showing has come when they decided to lower their yields.
 
 ![goldplayers](/assets/goldplayers.PNG)
 
@@ -16,9 +16,9 @@ By listening to concall, every quarter there is a new excuse of their under-perf
 
 It seems that the Manappuram gold loan franchise is weak compared to other players in the market and hence it trades at a cheaper valuation. The promoter has to prove that the business is strong enough to take market share, which is so far not happening.
 
-Since the past 5 years Manappuram’s Price to Book ratio has fallen from 1.9 times to 1.3 times (Reached 3.14 at peak) whereas for Muthoot it has risen from around 2 times to 3.06 (Reached to 4.6 times at peak).
+Since the past 5 years Manappuram’s Price to Book ratio has fallen from 1.9 times to 1.3 times (Reached 3.14 times at peak) whereas for Muthoot it has risen from around 2 times to 3.06 (Reached to 4.6 times at peak).
 
-This does not mean that Manappuram is a bad stock to own. Rather, it has its own risk to reward ratio but in that calculation valuation should not be the only metric there.
+This does not mean that Manappuram is a bad stock to own. Rather, it has its own risk to reward ratio but in that calculation, valuation should not be the only metric there.
 
 # Case #2: Music Streaming
 
