@@ -1,3 +1,5 @@
+_Link to Twitter thread: [link](https://twitter.com/badola_arjun/status/1493899293547450369)_
+
 As you read more and more industries one starts to realize that most of the time a player is cheaper than its peers because of valid reasons.
 
 But low multiples of that business makes you very biased to convince you to buy it.
