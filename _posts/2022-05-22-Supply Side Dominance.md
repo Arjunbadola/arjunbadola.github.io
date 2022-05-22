@@ -39,7 +39,7 @@ As the pandemic made a lot of things uncertain, gold loans were the safest optio
 
 This concept can also be applied in your life towards how you make your choices.
 
-When there is limited “supply” of anything in your life you end up composing and adjusting to that option even when you would know that you deserve better.
+When there is limited “supply” of anything in your life you end up compromising and adjusting to that option even when you would know that you deserve better.
 
 Think about friends.
 
