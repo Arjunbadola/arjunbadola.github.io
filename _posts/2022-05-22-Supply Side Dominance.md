@@ -4,7 +4,7 @@ In the investing world investors prefer to look for companies where there is sup
 
 In simple terms supply side dominance, as the name suggests, means that the supply of the particular good or service is controlled or provided by few suppliers. Reasons could be due to logistical advantage, superior quality, trust built up over the years, etc.
 
-Whenever I hear this term the best example which comes to my mind is of APL Apollo.
+Whenever I hear this term the best example which comes to my mind is of APL Apollo which is in the business of producing structural steel tubes.
 
 They took a few small steps which compounded and led to them becoming the market leader. The following helped them to build their competitive advantage:
 
