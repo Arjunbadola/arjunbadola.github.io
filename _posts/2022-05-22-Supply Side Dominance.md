@@ -12,7 +12,7 @@ They took a few small steps which compounded and led to them becoming the market
 2. They started making products where there was no competition, which is the reason they had 1500+ SKUs.
 3. Largest distribution system very important in the steel tubes or pipe segment
 4. Brought in DFT technology with an exclusive contract which helped them produce steel tubes faster and different sizes easily.
-5. Strong balance meant they didn’t have to rely on loans and even if they did they were at cheaper rates than the competition.
+5. Strong balance sheet meant they didn’t have to rely on loans and even if they did they were at cheaper rates than the competition.
 
 Therefore, a supply side dominance can be created by (not an exhaustive list):
 
