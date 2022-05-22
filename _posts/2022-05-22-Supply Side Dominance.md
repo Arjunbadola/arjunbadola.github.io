@@ -47,6 +47,6 @@ Many people face this problem when they are still friends with a person who is t
 
 But if one has more than one close friend the probability of moving out of that toxic friendship increases as the fear of being alone reduces. (As supply side increases…)
 
-Same is very true for toxic relationships where one partner can be mentally abusive but they don’t end such a relationship as they fear being alone or starting the process of knowing someone again from the start. Even though reading this might sound dumb and you would be wondering why would anybody do that, but the truth is fear of being alone is a real thing and people go to the extend of being in toxic relations to avoid such feeling.
+Same is very true for toxic relationships where one partner can be mentally abusive but they don’t end such a relationship as they fear being alone or starting the process of knowing someone again from the start. Even though reading this might sound dumb and you would be wondering why would anybody do that, but the truth is fear of being alone is a real thing and people go to the extent of being in toxic relations to avoid such feeling.
 
 If you have seen How I Met Your Mother, you would have come across The Mermaid Effect which can be a relatable concept to this post.
