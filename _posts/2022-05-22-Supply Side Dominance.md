@@ -19,9 +19,9 @@ Therefore, a supply side dominance can be created by (not an exhaustive list):
 1. Being the lowest cost producer where you can price your goods lower than competition and still maintain your margins
 2. Deal in products where quality of product is important rather than price for the end user
 3. Having a distribution system which can deliver the goods faster to the customer hence building a preference for your business over others
-4. Creating relationships with the customer which helps them bring back to you.=
+4. Creating relationships with the customer which helps them bring back to you.
 
-Carl Gustav Jacob Jacobi, who was a famous German mathematician, used to follow the strategy of “Invert, always invert” and the same has been propounded by Charlie Munger.
+Carl Gustav Jacob Jacobi, who was a famous German mathematician, used to follow the strategy of “Invert, always invert” and the same has been profounded by Charlie Munger.
 
 By inverting the questions comes, what can be the opposite of supply side dominance?
 
@@ -29,11 +29,11 @@ I feel the gold loan industry can be an example of it.
 
 Before the pandemic the banks were not very much interested in providing gold loans to their customers as it is an operational heavy business.
 
-You need physical lockers to keep the gold with extra security and insurance on the same plus relatively they are not high ticket loans hence requires more churning rather than one time giving out loans.
+You need physical lockers to keep the gold with extra security and insurance on the same. Plus, relatively, they are not high ticket loans hence requires more churning rather than one time giving out loans.
 
 It's always more lucrative for a bank to earn 4-5% on a home loan which is a high ticket loan rather than on a small gold loan. But then why has there been a sudden surge in competition in the gold industry by banks? The reason being gold loans are one of the safest loans out there. It is highly liquid, the value of gold is independent of its owner, and it is in the possession of the lender.
 
-As the pandemic made a lot of things uncertain gold loans are the safest option for the banks to look at. Therefore, the supply for providing gold loan in the industry increased substantial and the NBFCs which were lending at 24-25 % yields faced huge pain.
+As the pandemic made a lot of things uncertain, gold loans were the safest option for the banks to look at. Therefore, the supply for providing gold loan in the industry increased substantial and the NBFCs which were lending at 24-25 % yields faced huge pain.
 
 # In Life
 
