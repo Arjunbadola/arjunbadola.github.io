@@ -96,7 +96,7 @@ Finally, after being frustrated from constant reminder of payment being failed, 
 
 ### Current Status
 
-Yesterday, I dedicated my whole day to fixing this problem by leaving a bit of GitHub pages and completed the process of making the switch.
+Yesterday, I dedicated my whole day to fixing this problem by learning a bit of GitHub pages and completed the process of making the switch.
 
 Now, it is just a plain static website where I have taken the "Less is More" concept to much deeper levels.
 
