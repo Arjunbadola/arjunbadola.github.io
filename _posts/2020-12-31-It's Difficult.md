@@ -33,7 +33,7 @@ Especially, don’t listen to people who started investing during a bull run and
 
 > “Without passion, you don’t have energy. Without energy, you have nothing” - Warren Buffett
 
-These statement made by Warren Buffett have huge life lessons in it.
+These statements made by Warren Buffett have huge life lessons in it.
 
 Curiosity & Passion plays a vital role in investing.
 
