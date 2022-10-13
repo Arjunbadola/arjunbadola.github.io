@@ -1,9 +1,9 @@
 ---
 published: true
 ---
-This article is a revisit to on of my previous articles, [A New Perspective on Startups](http://arjunbadola.blog/A-New-Perspective-on-Startups/).
+This article is a revisit to one of my previous articles, [A New Perspective on Startups](http://arjunbadola.blog/A-New-Perspective-on-Startups/).
 
-Last time, I had written a brief summary about the video which I came across of Paul Graham and didn’t explain how it helped me.
+Last time, I had written a summary about the video which I came across of Paul Graham and didn’t explain how it helped me.
 
 So, here is my attempt to explain what I meant last time.
 
@@ -39,17 +39,17 @@ I would divide the answer into three parts: Opportunity Cost, Expertise, and Ide
 
 ### Opportunity Cost
 
-In the speech Paul Graham directly recommendeds not to start a startup when you are in college.
+In the speech Paul Graham recommends not to start a startup when you are in college.
 
 As startups are time consuming, they would eat up your whole college life.
 
 There are certain things which one could enjoy only when they are in their early twenties and if you step into the startup world so early you will end up missing out on other things.
 
-For example: You could currently travel around with your loved ones without caring what people would think about you whereas the same could be quite difficult for Mark Zuckerberg. But one advantage he would definitely have that he could travel faster. (example mentioned in the speech)
+For example: You could currently travel around with your loved ones without caring what people would think about you whereas the same could be quite difficult for Mark Zuckerberg. But one advantage he would have is that he could travel faster. (example mentioned in the speech)
 
 Life is short and you only get one short of it, starting early can be a good option but not when you might get regrets later in your life.
 
-Well, I definitely agree with Paul Graham here but with one exception.
+Well, I agree with Paul Graham here but with one exception.
 
 I think if what you are doing is what you love to do then the age discussion above does not matter. But this exception can also be counter argued in the next point that is expertise.
 
@@ -150,7 +150,7 @@ Quotes from podcast mentioned above:
 
 > “Ideas are cheap and easy and execution is everything.” Shane Parish
 
-> Great insight(Ideas) are like Archimedes lever that when its moved, it moves the world but, it still requires movement(execution). Mike Maples
+> Great insight (Ideas) are like Archimedes lever that when its moved, it moves the world but, it still requires movement (execution). Mike Maples
 
 ## Inshort
 
