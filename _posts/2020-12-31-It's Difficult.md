@@ -142,3 +142,5 @@ I feel all of the above reasons are currently playing out together.
 ## Inshort
 
 If you are not curious and passionate about stock market investing then do yourself a favor, maintain distance & stay safe. One would be far better off by just buying into Index Fund through the mode of SIP.
+
+For further read: [Link](https://twitter.com/badola_arjun/status/1579350123343417345)
