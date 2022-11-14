@@ -6,7 +6,7 @@ published: true
 ---
 Hi, I am [Arjun Badola](https://twitter.com/badola_arjun)- A law student with an interest in analyzing businesses.
 
-I write about investing on this blog and share my business analysis in collaboration with [SOIC](https://soic.in/blogs).
+I use this place to document my thought process on various things which are very random in generally but majority of it would be related to stock market investing. Further, I also share my business analysis in collaboration with [SOIC](https://soic.in/blogs).
 
 My investing style has evolved from being a Benjamin Graham style investor towards Moat investor followed by pure fundamental person (with focus on growth) to now moving towards TechnoFunda style of investing.
 
