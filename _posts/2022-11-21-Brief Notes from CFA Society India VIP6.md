@@ -96,6 +96,6 @@ Key takeaways:
   * Most Important Thing by Howard Marks
   * The Battle for Investment Survival by Gerald M. Loeb
 
-Final talk was by Vallabh Bhansali, founder of ENAM Group. The talk was about how India has changed and the achievements the country has achieved. I do not have notes for that but I would recommend reading Morgan Stanley’s report “Why This Is India’s Decade” or watch this interview.
+Final talk was by Vallabh Bhansali, founder of ENAM Group. The talk was about how India has changed and the achievements the country has achieved. I do not have notes for that but I would recommend reading Morgan Stanley’s report “Why This Is India’s Decade” or watch [this interview](https://youtu.be/1MiEW8ieeK8).
 
 Overall, the event was a great opportunity for networking and getting decades of insight by listening to experts of the industry. Looking forward to more such events!
