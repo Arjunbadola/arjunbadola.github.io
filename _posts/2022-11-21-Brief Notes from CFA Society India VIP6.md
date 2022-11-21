@@ -2,7 +2,7 @@ Link to twitter thread [contains images as well]: link
 
 Had an opportunity to attend 6th Value Investing Pioneers Summit by CFA Society India on 19th November 2022. 
 
-Further, I had great privilege to meet and talk to Prof. Sanjay Bakshi, Rajeshekar Iyer, Ashwini Damani, and Jitendra Chawala.
+Further, I had great privilege to meet and talk to Prof. Sanjay Bakshi, Rajeshekar Iyer, Ashwini Damani, Saurabh Basrar, and Jitendra Chawala.
 
 There were a total of four speakers but the most I enjoyed was Rajeshekar Iyer’s talk on “The Art of Investing". 
 
