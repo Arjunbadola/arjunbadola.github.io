@@ -1,0 +1,66 @@
+Link for photos: [link](https://twitter.com/badola_arjun/status/1569298848044187648)
+
+# The Next Big Idea is India! - Arvind Kothari, Niveshaay
+
+- Doesn’t prefer companies where financials have already improved which is reflected in the books/ratios of the company.
+    - Companies with “poor” financials are generally ignored by market and is a good place to look for ideas.
+    - But sometimes this style also exposes you to fall prey to hopeful investing.
+- Looks for trend of the industry and the entrepreneur spirit of the entrepreneur.
+    - Simplicity and promoters not doing flashy things is what he looks for.
+- One has to know the difference between an Analyst vs Investor
+    - Analyst: Ask questions with regards to quarter on quarter performance, even explains management how they should run their business.
+        - Ex: Radico Khaitan - management getting grilled for announcing another capex, ignoring how they have guided and delivered in previous years.
+    - Investor: Judges the entrepreneur who is the running the business and take a leap of faith with them.
+        - Ex: Balaji Amines: Not trusting them with their hotel business.
+- In India, the mindset is towards excessive focus towards risk management.
+    - Unless one has reached three digit crores, more thought should be spent on why an idea will work and not disbelief the entrepreneur.
+        - One has to know many promoters are exceptional entrepreneurs and they have decades of experience.
+    - One has to choose right mentors: following a checklist approach of focusing on ratios on a small capital base but not be a great strategy for high returns.
+        - Don’t settle for returns double the FD rate!
+        - One would never get an idea where their full checklist is filled. Most of the time such ideas have already appreciated in price.
+    - Understanding the business very well is risk management.
+- He prefers companies where there is less competition (concentrated profit pools), which most of the time leads to competition knowing each other.
+    - If the market size is very large then there will be many large variables.
+- In an high inflationary phase look for business which are able to pass on the increase in raw material prices.
+    - This depicts the strength of the business, which eventually leading to higher margins.
+        - hence, inflation is good for quality companies.
+- Doesn’t find financial sector attractive.
+    - Reasons:
+        - Growth in limit: no spoke of operating leverage like in manufacturing sector.
+        - Profits limited to the interest they charge but downside is full capital.
+    - Admires Kuntal Shah’s knowledge on financial sector.
+- Past bad history of auditors/management doesn’t one should ignore the company.
+    - Finding out the reason for that perception is key.
+    - You can’t expect company to be super clean.
+        - One has to take leap of faith on the promoter.
+- Things to look at for understanding if money is being taken away by the management:
+    - Travelling cost, Packaging cost, power/energy cost, steel/material cost, etc.
+        - Compare these across industry to notice anything unusual.
+- **Bullish on**:
+    - Trend/proxies playing out due to **steel sector**
+        - Believes steel sector is at the stage which IT sector was few decades back, as India’s steel cost is 15% lower than world.
+            - But this growth will be slower unlike IT sector.
+            - Ideas:
+                - Usha Martin
+                    - Competition is facing problems.
+                    - Mining mix could improve which is a higher value product.
+                    - But currently the brother of promoter is selling his stake which could not let the stock run up in the near term.
+    - **Textile sector**
+        - Whole value chain is ready.
+            - unlike Bangladesh where the players of value chain are not at one place and many steps involve importing and exporting which leads to higher delivery time of the product.
+            - In India the whole value chain is generally near the locality of the manufacturer leading faster delivery time which is very crucial for customers.
+        - Ideas:
+            - S.P Apparels:
+                - Deals in kids clothing which is a very tough sector to get in.
+                - One case of defected product and company will be under huge litigation cost.
+                - TESCO discusses with them for their kids wear section as 50% of TESCO’s demand is fulfilled by S.P Apparels.
+    - **MDF sector:** Consumer preference shifting to ready made furniture, that is where MDF is used.
+- If a business can save cost + time for their customer, one can expect exceptional growth for this business.
+- India is a trust deficit market and building a brand is very important here.
+- Thoughts on allocation, averaging up, and exit:
+    - Starts with Mid-high allocation, as only then he gets the psychological effect of thinking about the idea constantly.
+    - For averaging up a position looks for future earning triggers which are coming in as the business keeps performing.
+    - For exit they have hired a person expert in technicals as after 2018 they realized that the smart money generally get access to information very fast and when they exit it is generally good time to follow them.
+        - But doesn’t use technicals for enter as the stocks they come across are mostly illiquid.
+- Quality of research in years have increased so much that investor’s foresight in one thing which can help them create an edge.
+- One has to get used to with drawdowns, especially in growth stocks as one small bad news can make it fall.
