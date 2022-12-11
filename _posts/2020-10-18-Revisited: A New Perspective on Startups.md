@@ -105,11 +105,7 @@ Whereas, if you have an idea for a problem which exist in the present world then
 
 - **Taking the Leap**
 
-Alright, now you have generated an idea which has been derived by your own experience, solving a problem which people are facing in their day to day life, and the solution which you are providing is 10 times better, but…
-
-Life is not easy.
-
-Therefore even after having odds in your favor, dropping out of college is not a good idea.
+Alright, now you have generated an idea which has been derived by your own experience, solving a problem which people are facing in their day to day life, and the solution which you are providing is 10 times better, but even after having odds in your favor dropping out of college is not a good idea.
 
 There is a huge misconception about billionaires dropping out without a backup plan to pursue their startup ideas.
 
