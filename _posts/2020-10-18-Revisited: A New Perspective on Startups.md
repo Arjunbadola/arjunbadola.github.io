@@ -63,9 +63,7 @@ You must know what you are good at and then use that skill to add value to your 
 4. Warren Buffett: started his partnership after he had learned investing under his guru Benjamin Graham. (Also, bought his first share at age 11)
 5. Elon Musk: At age 12 sold his first game which he programmed.
 
-All these people when went into forming a company where they knew what they were dealing with.
-
-They didn’t start a startup just for the sake of it instead they found a gap in the society and exploited it towards their advantage.
+All these people when went into building a company where they knew what they were dealing with. They didn’t start a startup just for the sake of it instead they found a gap in the society and exploited it towards their advantage.
 
 Paul Graham suggests that focus on gaining knowledge and not starting a company just for the sake of it. Your company must add value to the lives of people it serves for.
 
@@ -77,11 +75,9 @@ So, how does one generate an idea to work on?
 
 As mentioned above, the focus should be on gaining knowledge and while doing that your mind should be molded in such a way that it could recognize the flaws around you.
 
-If you are working in the field of law, look around and experience the things in that field. Soon, you will be stumbled upon some problems which if solved can help many people.
+If you are working in the field of law, look around and experience the things in that field. Soon, you will be stumbled upon some problems which if solved can help many people. 
 
-One such example could be of usage of paper in the courts.
-
-In India, so much of work is still done on papers. So, if you could build an integrated system that could reduce the usage of paper drastically then it could be a good idea to work on.
+One such example could be of usage of paper in the courts. In India, so much of work is still done on papers. So, if you could build an integrated system that could reduce the usage of paper drastically then it could be a good idea to work on.
 
 - **Quality of Idea**
 
