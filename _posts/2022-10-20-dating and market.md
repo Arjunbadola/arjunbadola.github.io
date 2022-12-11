@@ -30,7 +30,7 @@ But when maintaining that connection with the special one, going all in is the B
 3. All the efforts and thought process is towards that one person, which also means you won’t be forgetting what you spoke about during your conversation.
 4. The feeling the other person gets when your full attention (not limited to one conversation but in general efforts towards that one person) is towards only that one person is very special.
 
-**In the stock market you should flirt with many and marry none but in life you tag alone with only one.**
+**In the stock market you should flirt with many and marry none but in life you tag along with only one.**
 
 # What if that person is not the right one?
 
