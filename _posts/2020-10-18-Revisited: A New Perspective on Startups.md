@@ -21,7 +21,7 @@ That seems attractive but you need to know on which idea you should take a leap 
 
 Continuous inflow of such content made me feel miserable if I was not working on a startup idea.
 
-This led me to intentional try thinking about ideas and rationalize by giving reasoning that “this time its different”. I used to think that if I don’t come up with a startup idea soon, I would end up having an average life.
+This led me to intentionally try thinking about ideas and rationalize by giving reasoning that “this time its different”. I used to think that if I don’t come up with a startup idea soon, I would end up having an average life.
 
 But hopefully, I was wrong.
 
