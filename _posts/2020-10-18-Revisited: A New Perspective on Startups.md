@@ -3,9 +3,7 @@ published: true
 ---
 This article is a revisit to one of my previous articles, [A New Perspective on Startups](http://arjunbadola.blog/A-New-Perspective-on-Startups/).
 
-Last time, I had written a summary about the video which I came across of Paul Graham and didn’t explain how it helped me.
-
-So, here is my attempt to explain what I meant last time.
+Last time, it covered only the summary of Paul Graham's lecture, this time I attempt to add my thoughts as well.
 
 ## The Problem
 
@@ -15,7 +13,7 @@ What can it be for a college student so stressful that each day seemed like hell
 
 It might seem very ‘cool’ to have a startup and get excited about running one. But the truth is far from that.
 
-I used to watch so many online videos on YouTube which used to suggest that skip college and go run your own startup, take a leap of faith, be your own employer, etc.
+I used to watch so many online videos on YouTube which used to suggest skipping college and build your own startup, take a leap of faith, be your own employer, etc.
 
 That seems attractive but you need to know on which idea you should take a leap and whether you should take a leap at the first place?
 
@@ -23,23 +21,23 @@ Continuous inflow of such content made me feel miserable if I was not working on
 
 This led me to intentionally try thinking about ideas and rationalize by giving reasoning that “this time its different”. I used to think that if I don’t come up with a startup idea soon, I would end up having an average life.
 
-But hopefully, I was wrong.
+But thankfully, I was wrong.
 
 ## The Solution
 
-Luckily, I stumbled upon a speech given by Paul Graham at Stanford University: [Before the Startup](https://youtu.be/ii1jcLg-eIQ)
+I stumbled upon a speech given by Paul Graham at Stanford University: [Before the Startup](https://youtu.be/ii1jcLg-eIQ)
 
 Watching that speech made me realized that this whole time my perspective towards startups was wrong.
 
 I used to look at it as a money generating machine or something which is ‘cool’ to do. But I never paid attention on what it takes to run a startup.
 
-My focus was just on getting that billion dollar idea. In reality, its not just about the idea.
+My focus was on getting that billion dollar idea. In reality, its not only about the idea.
 
 I would divide the answer into three parts: Opportunity Cost, Expertise, and Ideas
 
 ### Opportunity Cost
 
-In the speech Paul Graham recommends not to start a startup when you are in college.
+In the speech Paul Graham recommends NOT to start a startup when you are in college.
 
 As startups are time consuming, they would eat up your whole college life.
 
@@ -95,11 +93,7 @@ If you are going to provide a product/service which gets the job done slightly b
 
 People are reluctant to changes. Nobody wants to learn a new thing just because it provides slightly better solution. Instead they want it to be significantly better than the existing one.
 
-Therefore, an idea which is solving a problem which people face in their day to day life and the solution is 10 times better than the current way then odds are very much in your favor.
-
-But there is another side.
-
-The type of problem which you are solving also matters.
+But there is another side. The type of problem which you are solving also matters.
 
 In a recent [podcast](https://www.youtube.com/watch?v=FJeChzaqFos) of Shane Parish this idea was discussed.
 
@@ -132,7 +126,7 @@ Here is the list of examples he gave:
 5. Brian May: After playing guitar for seven years he decided to go all in.
 6. Pierre Omidyar: He had built ebay as a hobby and left his day job only after it was earning more money than his job.
 7. Henry Ford: started his automotive company while being employed under Thomas Edison.
-8. Bill Gates: He waited for an entire year after selling his first software. Even then he did not drop out, instead took a leave of absence. Plus he had his parents to for financial support.
+8. Bill Gates: He waited for an entire year after selling his first software. Even then he did not drop out, instead took a leave of absence. Plus he had his parents for financial support.
 
 (I think Steve Jobs is an exception to the list)
 
@@ -154,4 +148,4 @@ Quotes from podcast mentioned above:
 
 ## Inshort
 
-When you decide to start a startup always consider three things: Opportunity cost, your expertise, and value of your idea. Plus, even after that always have a backup plan as you don’t know what you don’t know.
+When you decide to start a startup always consider three things: Opportunity cost, your expertise, and value of your idea. Even after that always have a backup plan as you don’t know what you don’t know.
