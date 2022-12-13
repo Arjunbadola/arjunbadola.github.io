@@ -21,6 +21,4 @@ To uphold a good relationship with anyone, basic efforts should be put in: reply
 
 It hurts when someone fails to put in the basic efforts especially when you were looking forward to building that relationship. Recurrence of nil efforts soon makes you realise you did not qualify into the priority list whereas on the other side you waited alongside the opened gates of your inner circle.
 
-BUT, let’s end the essay on a positive note, here is something Zakir Khan said: [link](https://youtube.com/shorts/tDaKR1mh5Iw?feature=share)
-
 Thanks to Pramit Dev Pandey for reading drafts of this.
