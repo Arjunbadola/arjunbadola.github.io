@@ -6,7 +6,7 @@ It's going to be focused on two things, first- On Humbleness and second- On writ
 
 If you have seen episodes of Shark Tank India you would have noticed the grilling part which each entrepreneur goes through. Even in my law school we face a lot of grilling on various things, for example Moot court, which helps the students to be prepared for the practical world.
 
-This guy is good example to convene the message on humbleness:
+This guy is good example to convey the message on humbleness:
 
 ![doglapan](/assets/doglapan.png)
 
@@ -64,7 +64,7 @@ I have shared earlier via my articles ([_How to do long term_](http://arjunbadol
 
 My obsession with bodybuilding could be because being in school where having a muscular body attracts a lot of attention and people start admiring you. But as you get older and go to college such things become less relevant and one has to start getting serious with life (I know some people might not agree with me and say even college is a place to have fun and chill out).
 
-So far with writing I think I still might be in stage 1 because I use writing as a tool to convene my opinion about finance and general stuff which I experience in my life. If I would have been writing for making money or writing itself as my obsession then the graph explained above could apply to me. But as of now writing for me is being used as a tool to convene my message to the public at large.
+So far with writing I think I still might be in stage 1 because I use writing as a tool to convene my opinion about finance and general stuff which I experience in my life. If I would have been writing for making money or writing itself as my obsession then the graph explained above could apply to me. But as of now writing for me is being used as a tool to convey my message to the public at large.
 
 In 2020, 3-5 people I know had started blogging around the time I started and today all of them have stopped writing. It's very easy to write 10-20 articles on a specific topic which you like but that will only take you as far as 3-5 months (assuming you write 1 article per week).
 
