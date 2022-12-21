@@ -8,7 +8,7 @@ As today is Raksha Bandhan you would have seen tweets about gifting stocks to yo
 
 Imagine your sister saving money for something she really wants to buy, and you gift her stocks and Monday they crash...
 
-She might be planning to buy that expensive headphone but you bloody hell added another later of confusion because now when you call back after few months, and she tells you that she sold immediately you would be sad, and she doesn't want to do that to you.
+She might be planning to buy that expensive headphone but you bloody hell added another layer of confusion because now when you call back after few months, and she tells you that she sold immediately you would be sad, and she doesn't want to do that to you.
 
 **Don't get into investing so much that you forget to enjoy life.**
 
