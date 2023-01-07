@@ -28,7 +28,7 @@ Here are few pointers from the meet:
     - We will see manufacturing led growth. (Exports will also do good)
         - The theme is no longer China + 1, it is not China 0 where companies don’t want factories there as it is difficult to take out money from that country.
     - Upcoming election 2024 is the fear which bring uncertainty.
-    - Europe is having a gas problem where industries are getting supply of gas due to which they are outsourcing manufacturing to different countries.
+    - Europe is having a gas problem where industries are not getting supply of gas due to which they are outsourcing manufacturing to different countries.
         - Ex: Timken manufacturing from India.
     - Currently the market is not cheap and no way near the buying zone but also not in a selling zone.
 - Advise to young investors:
