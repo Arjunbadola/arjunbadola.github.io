@@ -1,3 +1,5 @@
+_Link to twitter thread: [link](https://twitter.com/badola_arjun/status/1611613725764775936)_
+
 Here are few pointers from the meet:
 
 - During COVID crash Govind Parikh was one of the few people who were calm and kept buying as valuations became attractive.
