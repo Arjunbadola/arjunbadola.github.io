@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 Analysis of the bearing industry (including: Timken, SKF, Schaeffler).
 
 Many growth triggers in an industry of consolidated players.  
