@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 Link for photos: [link](https://twitter.com/badola_arjun/status/1569298848044187648)
 
 # The Next Big Idea is India! - Arvind Kothari, Niveshaay
