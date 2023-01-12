@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 For the second time, I was invited to speak about my stock market journey.
 
 I spoke about the following:
