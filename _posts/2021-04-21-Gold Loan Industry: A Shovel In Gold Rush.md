@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 Hi guys, here is another two-part blog series with SOIC. This time its on Gold Loan Industry. We will start the discussion by analyzing the industry in this first blog and followed by analysis of the listed players in the industry in the next one.
 
