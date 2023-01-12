@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 _Link to twitter thread [contains images as well]: [link](https://twitter.com/badola_arjun/status/1594571744177983489)_
 
 Had an opportunity to attend 6th Value Investing Pioneers Summit by CFA Society India on 19th November 2022. 
