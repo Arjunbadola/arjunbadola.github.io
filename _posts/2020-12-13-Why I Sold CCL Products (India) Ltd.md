@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 (Here is my original investment thesis for this company: [link](https://arjunbadola.blog/ccl-products-india-ltd-analysis-the-moat-business-you-might-be-looking-for/))
 
