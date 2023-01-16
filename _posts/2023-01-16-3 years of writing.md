@@ -22,7 +22,7 @@ It's been 3 years and still one of the best things about having a blog is that i
 
 Writing essays after an incident/experience which I faced, is like documentation of my life story and how my thought process is changing. After 3-5-10 years (I hope to keep writing by then) when I look back, I will see what changes I went through and how stupid I was during the current times.
 
-There have been times when I felt that writing and sharing it to the public isn’t generating any value as most of the content I write is most emotional writing or is unasked for. But due to interaction with many and receiving messages about how my writing has helped them and support from friends, I have always stuck with the decision to continue writing.
+There have been times when I felt that writing and sharing it to the public isn’t generating any value as most of the content I write is mostly emotional writing or is unasked for. But due to interaction with many and receiving messages about how my writing has helped them and support from friends, I have always stuck with the decision to continue writing.
 
 Thank you for reading and being my audience! 
 
