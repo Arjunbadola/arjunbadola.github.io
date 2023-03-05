@@ -52,6 +52,6 @@ Similarly, one should not expect a perfect scenario where everything is as per y
 
 The below image is a good image to explain what a relationship looks like: ([source](https://twitter.com/waitbutwhy/status/1590389812477202432))
 
-![waitbutwhy][waitbutwhy.jpg]
+![waitbutwhy](/assets/waitbutwhy.jpg)
 
 Therefore, there will be times when you need to deal with things which fall under the yellow box (Things you wish you didn’t have to deal with) and there will times when you miss things which were present in the blue box (Things you wish you had) but it will be all worth it because the combination of green box (Things you’re happy you have) and yellow box would make you a black lined box (a relationship). :)
