@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 I was invited to speak about my stock market journey with 3 other guests.
