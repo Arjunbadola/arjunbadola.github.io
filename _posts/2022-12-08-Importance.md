@@ -8,7 +8,7 @@ There are some [core values](https://arjunbadola.blog/core-values/) within each 
 
 The advice people will give will be representing their core values which might not match with yours. People can give you ‘n’ number of advice but it is always you who has to take the final call. There is also a possibility that you might forgo a very high quality trait which you would have within yourself just because the results are not showing up.
 
-The problem in following the advice: “Don’t give people so much importance” would be going against your naturist of trusting that person. You want to talk to that person because you like the _vibe_ or enjoy spending time with them, etc., for that you have to show some effort/interest which one does by giving them importance.
+The problem in following the advice: “Don’t give people so much importance” would be going against your nature of trusting that person. You want to talk to that person because you like the _vibe_ or enjoy spending time with them, etc., for that you have to show some effort/interest which one does by giving them importance.
 
 Opening up with people or giving them importance in the early stages of getting to know them comes with its own problems.
 1. You are yet to discover more about that person
