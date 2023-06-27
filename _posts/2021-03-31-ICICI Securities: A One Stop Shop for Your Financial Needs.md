@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Hi guys, as promised here is the second part of the blog series where we take forward the discussion of brokerage industry towards analyzing ICICI securities.
 
