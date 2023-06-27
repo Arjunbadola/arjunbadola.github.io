@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 (Here is the updated version of my research on this company: [link](https://arjunbadola.blog/Why-I-Sold-CCL-Products-(India)-Ltd/))
 
