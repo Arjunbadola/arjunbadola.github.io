@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Bringing you an analysis of a business which is a play on India's consumer growth story as the discretionary spending increase with the backing of a B2B segment which a slow growing but a stable one: BOROSIL LTD!
