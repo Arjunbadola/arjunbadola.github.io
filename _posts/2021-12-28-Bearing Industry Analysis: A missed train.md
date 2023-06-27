@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Analysis of the bearing industry (including: Timken, SKF, Schaeffler).
