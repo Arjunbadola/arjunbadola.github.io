@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 This time I have covered a proxy play to the real estate/infrastructure sector to ride the theme of building material in collaboration with School of Intrinsic Compounding. In this blog we will discuss Prince Pipes & Fittings and understand the following things about the company:
