@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 For the first time at SOIC we are analysing a business from the agriculture segment: _**VST Tiller and Tractors**_. The business has many growth triggers coming in and it seems that the new management is aggressive towards achieving their new vision.
