@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 A company from FMCG sector which is showing strong double digit volume growth and could be a good play on consumption story of India – Varun Beverages!
