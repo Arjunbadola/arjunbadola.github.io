@@ -4,7 +4,7 @@ permalink: /about/
 layout: page
 published: true
 ---
-Hi! I am Arjun Badola, currently a law student with interest towards Securities Regulations, Contracts Law, and Intellectual Property Rights.
+Hi! I am Arjun Badola, a capital markets lawyer.
 
 I use this place to document my thought process on various things which can vary from stock market to life in generally.
 
