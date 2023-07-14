@@ -6,7 +6,7 @@ published: true
 ---
 Hi! I am Arjun Badola, a capital markets lawyer.
 
-I use this place to document my thought process on various things which can vary from stock market to life in generally.
+I use this place to document my thought process on various things which can vary from stock market to life in general.
 
 If you have anything interesting to read, do share it via twitter [@badola_arjun](https://twitter.com/badola_arjun).
 
