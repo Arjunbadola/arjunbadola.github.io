@@ -6,7 +6,7 @@ Let’s assume the following is the expression of life: 2x + 50 (x = variable, 5
 
 My focus has always been on the constant figures and avoiding variables to the maximum extent. But in reality a slight change in the variable figure throws your whole expression under the bus.
 
-It is nice to have certainty in things, because one knows what comes next and planning out things goes seamlessly. Further, there are less [unknown known](https://en.wikipedia.org/wiki/There_are_unknown_unknowns) events. But looking for certainty in everything and getting to a conclusive decision is not a viable option every time, rather most of the time.
+It is nice to have certainty in things, because one knows what comes next and there are less [unknown known](https://en.wikipedia.org/wiki/There_are_unknown_unknowns) events. But looking for certainty in everything and getting to a conclusive decision is not a viable option every time, rather most of the time.
 
 Letting things go with the flow seems the option to most things. As the variable factor is so strong that the pre-planning or thought process put into it seems a waste of time.
 
@@ -25,3 +25,5 @@ Now if someone gets too busy in trying to understand the reason behind the senti
 Being open to uncertainty opens you up to explore unknown unknowns. As when you look for certainty, there are high chances that the assumptions you have made for forming a decision/opinion could be based without experience or prior knowledge of how things generally pan out. When such events happen in reality, one goes through character development.
 
 Fighting uncertainty is a losing game. The only good tool to use against it is risk management as trying to reduce the downside can let you control the events which might occur if the primary event doesn’t go as per plan. But such planning should not be to micro level at the cost of burning out oneself.
+
+Thanks to Pramit Dev Pandey for reading drafts of this.
