@@ -8,7 +8,7 @@ The risky bit here is that the law of averages don’t help much here - one poor
 
 _**Quality at work**_
 
-The level of quality standard you maintain reflects upon one’s self - it reflects upon your attitude towards certain things. People can improve at various aspects like skills, behavior, knowledge, etc. but attitude is something which is cultivated over the years. Hence, your output of work, indirectly, portrays your attitude - that is why we see stark difficulty in quality of work when one is interested in doing something vs they are doing it for the sake of it. But setting aside the debate about what quality means, for the sake of this essay we can reasonably call it putting 100% effort without being casual about it/creating integrity doubt.
+The level of quality standard you maintain reflects upon one’s self - it reflects upon your attitude towards certain things. People can improve at various aspects like skills, behavior, knowledge, etc. but attitude is something which is cultivated over the years. Hence, your output of work, indirectly, portrays your attitude - that is why we see stark difference in quality of work when one is passionate about it. But setting aside the debate about what quality means, for the sake of this essay we can reasonably call it putting 100% effort without being casual about it/creating integrity doubt.
 
 Further, maintaining quality output at your job pays you a long way - it builds trust and reliance, these things can’t be built over night. Avoid taking something casually, even if one thinks it is a one time event. There is always something which pops up and bites you back - that’s when low quality work is revealed and you are under the bus.
 
