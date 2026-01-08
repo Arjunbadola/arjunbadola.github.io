@@ -34,4 +34,4 @@ Sometimes in this rat race, we tend to run too fast that we start complaining ab
   
 Next time you find yourself frustrated by a small inconvenience, ask yourself: *Is this a problem I once prayed to have?*  
   
-“*What a privilege to be tired from the work you prayed for. What a privilege to feel overwhelmed by the growth you used to dream about. What a privilege to be challenged by a life you created on purpose. What a privilege to outgrow things you used to settle for.*”  
+> “*What a privilege to be tired from the work you prayed for. What a privilege to feel overwhelmed by the growth you used to dream about. What a privilege to be challenged by a life you created on purpose. What a privilege to outgrow things you used to settle for.*”  
