@@ -1,5 +1,3 @@
-# *The Privilege Threshold*  
-  
 When things go smoothly, one forgets the underlying quality. Be it the stock market or a relationship.  
   
 During a bull run, investors tend to ignore the importance of fundamental qualities of a company and get swayed by the price movements, sometimes valuing cyclical companies like structural ones.  
