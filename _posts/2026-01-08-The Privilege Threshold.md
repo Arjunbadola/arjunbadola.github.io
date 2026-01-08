@@ -3,14 +3,14 @@
 When things go smoothly, one forgets the underlying quality. Be it the stock market or a relationship.  
   
 During a bull run, investors tend to ignore the importance of fundamental qualities of a company and get swayed by the price movements, sometimes valuing cyclical companies like structural ones.  
-  
+
 Similarly, in a healthy relationship, the very factors that keep the foundation strong often go unnoticed unless one pauses to reflect. If the system is going smoothly, there are things behind which are making it work at such a pace. On the other hand, if things go south, you would pull out a list of things which are causing you trouble.  
-  
+ 
 This is what I call the *Privilege Threshold* - where one has pivoted above a certain economic background / lifestyle. There is no harm in thinking above this threshold, but it is important to, occasionally, touch base on the other side to acknowledge the privilege perspective one affords.  
   
 ### *On Relationship*  
   
-In the early stage of a relationship, small gestures, like buying flowers, come naturally. But over time - both get used to it and these gestures start to fade. I believe it is crucial to keep putting in *++[efforts](https://arjunbadola.blog/Efforts/)++* (such actions won’t feel like ‘efforts’ in the first place - but due to lack of any better word) for each other and avoid the mentality of “*you have made it*” but being together was just the start.  
+In the early stage of a relationship, small gestures, like buying flowers, come naturally. But over time - both get used to it and these gestures start to fade. I believe it is crucial to keep putting in *[efforts](https://arjunbadola.blog/Efforts/)* (such actions won’t feel like ‘efforts’ in the first place - but due to lack of any better word) for each other and avoid the mentality of “*you have made it*” but being together was just the start.  
   
 The *Privilege Threshold* would hit in a relationship, where you would start having “good problems” to have, for example, increase in spending habits because now you are actually living life and going out more.   
   
