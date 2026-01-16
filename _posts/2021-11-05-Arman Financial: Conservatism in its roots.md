@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 
 This time at SOIC we are analysing Arman Financial Services Ltd (NSE: ARMANFIN) a microfinancing NBFC with excellent governance and conservative practices which are key requirement in a lending business.
